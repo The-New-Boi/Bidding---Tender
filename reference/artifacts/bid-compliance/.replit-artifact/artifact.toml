@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Bid Compliance Copilot"
+description = "An AI-assisted bid compliance verification platform for CPCL procurement teams to import bidder records, simulate government portal checks, identify gaps, score risk, and produce audit-ready decisions."
+version = "1.0.0"
+id = "artifacts/bid-compliance"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18227
+
+[services.development]
+run = "pnpm --filter @workspace/bid-compliance run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/bid-compliance", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/bid-compliance/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18227"
+BASE_PATH = "/"

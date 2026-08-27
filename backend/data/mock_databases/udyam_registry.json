@@ -1,0 +1,632 @@
+[
+  {
+    "udyam_number": "UDYAM-GJ-66-2369986",
+    "company_name": "Natarajan-Gera",
+    "category": "Micro",
+    "state": "Maharashtra",
+    "registration_date": "2024-04-01",
+    "valid_until": "2027-08-27",
+    "pan": "FUUCL5490R",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-UP-89-1735401",
+    "company_name": "Lanka Inc",
+    "category": "Micro",
+    "state": "West Bengal",
+    "registration_date": "2026-01-21",
+    "valid_until": "2027-08-27",
+    "pan": "RASCM2016A",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-82-3798309",
+    "company_name": "Toor, Sarin and Puri",
+    "category": "Small",
+    "state": "Jharkhand",
+    "registration_date": "2023-12-15",
+    "valid_until": "2027-08-27",
+    "pan": "JTGCL6694J",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-80-8435183",
+    "company_name": "Oza, Jhaveri and Thakkar",
+    "category": "Small",
+    "state": "Uttar Pradesh",
+    "registration_date": "2025-07-18",
+    "valid_until": "2027-08-27",
+    "pan": "JRWCR4486I",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-UP-74-1677006",
+    "company_name": "Chaudhry, Chaudhry and Chadha",
+    "category": "Medium",
+    "state": "Assam",
+    "registration_date": "2025-10-16",
+    "valid_until": "2027-08-27",
+    "pan": "YUUCX8329C",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-KA-17-6374832",
+    "company_name": "Radhakrishnan-Naik",
+    "category": "Micro",
+    "state": "Telangana",
+    "registration_date": "2025-06-23",
+    "valid_until": "2027-08-27",
+    "pan": "SVOCU6146G",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-KA-25-6304320",
+    "company_name": "Khalsa-Kakar",
+    "category": "Medium",
+    "state": "Arunachal Pradesh",
+    "registration_date": "2024-07-01",
+    "valid_until": "2027-08-27",
+    "pan": "VOOCX6322N",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-93-7654265",
+    "company_name": "Char, Dada and Korpal",
+    "category": "Small",
+    "state": "Telangana",
+    "registration_date": "2025-10-31",
+    "valid_until": "2027-08-27",
+    "pan": "ZIZCU8598K",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-55-4977288",
+    "company_name": "Vyas LLC",
+    "category": "Micro",
+    "state": "Goa",
+    "registration_date": "2025-01-19",
+    "valid_until": "2027-08-27",
+    "pan": "BTACC9459C",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-78-9199377",
+    "company_name": "Talwar Group",
+    "category": "Small",
+    "state": "Goa",
+    "registration_date": "2026-03-28",
+    "valid_until": "2027-08-27",
+    "pan": "BYFCL1131U",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-24-2047719",
+    "company_name": "Bali-Guha",
+    "category": "Small",
+    "state": "Odisha",
+    "registration_date": "2026-05-30",
+    "valid_until": "2027-08-27",
+    "pan": "IHXCU6763T",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-90-4035906",
+    "company_name": "Koshy, Dass and Varkey",
+    "category": "Small",
+    "state": "West Bengal",
+    "registration_date": "2026-08-01",
+    "valid_until": "2027-08-27",
+    "pan": "LXYCF8143J",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-46-7831766",
+    "company_name": "Mannan-Sundaram",
+    "category": "Small",
+    "state": "Telangana",
+    "registration_date": "2025-01-13",
+    "valid_until": "2027-08-27",
+    "pan": "ZTCCN5994W",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-59-8395290",
+    "company_name": "Dora, Mane and Kapadia",
+    "category": "Micro",
+    "state": "Meghalaya",
+    "registration_date": "2025-05-13",
+    "valid_until": "2027-08-27",
+    "pan": "RGRCZ7128Z",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-10-7054074",
+    "company_name": "Divan-Dhar",
+    "category": "Medium",
+    "state": "Punjab",
+    "registration_date": "2025-04-26",
+    "valid_until": "2027-08-27",
+    "pan": "YSICD9808Q",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-UP-11-1522020",
+    "company_name": "Ben-Sabharwal",
+    "category": "Small",
+    "state": "Uttarakhand",
+    "registration_date": "2024-04-19",
+    "valid_until": "2027-08-27",
+    "pan": "COACJ5737L",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-25-4243947",
+    "company_name": "Patla, Brar and Tella",
+    "category": "Micro",
+    "state": "Goa",
+    "registration_date": "2024-01-01",
+    "valid_until": "2027-08-27",
+    "pan": "SJJCY3031W",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-UP-13-9889657",
+    "company_name": "Ganesh Ltd",
+    "category": "Small",
+    "state": "Madhya Pradesh",
+    "registration_date": "2024-09-24",
+    "valid_until": "2027-08-27",
+    "pan": "GJFCU6876H",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-44-4623013",
+    "company_name": "Bhandari, Dash and De",
+    "category": "Small",
+    "state": "Uttar Pradesh",
+    "registration_date": "2024-04-20",
+    "valid_until": "2027-08-27",
+    "pan": "JWMCJ2654C",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-UP-75-2900059",
+    "company_name": "Bhatia-Natarajan",
+    "category": "Medium",
+    "state": "Nagaland",
+    "registration_date": "2024-06-24",
+    "valid_until": "2027-08-27",
+    "pan": "WMDCI1872W",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-KA-76-6679856",
+    "company_name": "Soni, Pau and Nath",
+    "category": "Small",
+    "state": "Andhra Pradesh",
+    "registration_date": "2024-01-01",
+    "valid_until": "2026-02-15",
+    "pan": "VWHCQ5510F",
+    "status": "Expired"
+  },
+  {
+    "udyam_number": "UDYAM-UP-11-3705059",
+    "company_name": "Thakkar-Raj",
+    "category": "Medium",
+    "state": "Haryana",
+    "registration_date": "2025-10-01",
+    "valid_until": "2027-08-27",
+    "pan": "QBDCT9631S",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-KA-40-9715545",
+    "company_name": "Baral-Saini",
+    "category": "Micro",
+    "state": "West Bengal",
+    "registration_date": "2025-12-10",
+    "valid_until": "2027-08-27",
+    "pan": "FWYCF8278P",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-UP-50-9693346",
+    "company_name": "Borde, Lalla and Bajaj",
+    "category": "Small",
+    "state": "Himachal Pradesh",
+    "registration_date": "2024-09-09",
+    "valid_until": "2027-08-27",
+    "pan": "IRMCM7742J",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-92-2214980",
+    "company_name": "Kanda-Pal",
+    "category": "Micro",
+    "state": "Odisha",
+    "registration_date": "2026-02-07",
+    "valid_until": "2027-08-27",
+    "pan": "SBVCI6519I",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-57-8738993",
+    "company_name": "Naik PLC",
+    "category": "Small",
+    "state": "Tripura",
+    "registration_date": "2024-08-06",
+    "valid_until": "2027-08-27",
+    "pan": "HVRCH7785E",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-79-9357550",
+    "company_name": "Shukla Ltd",
+    "category": "Medium",
+    "state": "West Bengal",
+    "registration_date": "2024-08-18",
+    "valid_until": "2025-12-11",
+    "pan": "ZGMCK2013K",
+    "status": "Expired"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-60-3452923",
+    "company_name": "Butala Inc",
+    "category": "Small",
+    "state": "Madhya Pradesh",
+    "registration_date": "2025-07-27",
+    "valid_until": "2027-08-27",
+    "pan": "JBCCZ7206F",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-UP-81-5036832",
+    "company_name": "Gaba LLC",
+    "category": "Small",
+    "state": "Nagaland",
+    "registration_date": "2024-02-07",
+    "valid_until": "2027-08-27",
+    "pan": "KDTCD2880K",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-41-1857382",
+    "company_name": "Mishra-Raman",
+    "category": "Small",
+    "state": "Assam",
+    "registration_date": "2025-03-27",
+    "valid_until": "2027-08-27",
+    "pan": "PPBCS8314M",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-94-5554115",
+    "company_name": "Sarma PLC",
+    "category": "Medium",
+    "state": "Tripura",
+    "registration_date": "2023-12-24",
+    "valid_until": "2027-08-27",
+    "pan": "LSDCI9150Y",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-21-7693376",
+    "company_name": "Oza Ltd",
+    "category": "Small",
+    "state": "Uttar Pradesh",
+    "registration_date": "2026-01-15",
+    "valid_until": "2027-08-27",
+    "pan": "OQACW2317F",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-KA-30-8502250",
+    "company_name": "Dey, Bajwa and Ranganathan",
+    "category": "Small",
+    "state": "Andhra Pradesh",
+    "registration_date": "2026-05-19",
+    "valid_until": "2026-02-27",
+    "pan": "OBXCR5864H",
+    "status": "Expired"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-71-4279927",
+    "company_name": "Tank and Sons",
+    "category": "Medium",
+    "state": "Odisha",
+    "registration_date": "2025-10-30",
+    "valid_until": "2027-08-27",
+    "pan": "POUCS4879Q",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-KA-79-3965377",
+    "company_name": "Devi, Bobal and Sankaran",
+    "category": "Micro",
+    "state": "Bihar",
+    "registration_date": "2024-09-04",
+    "valid_until": "2027-08-27",
+    "pan": "FSRCH5972M",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-76-7622386",
+    "company_name": "Mutti-Natarajan",
+    "category": "Medium",
+    "state": "Uttarakhand",
+    "registration_date": "2026-08-07",
+    "valid_until": "2027-08-27",
+    "pan": "SOACL7073G",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-KA-60-1290446",
+    "company_name": "Chowdhury, Tak and Mangal",
+    "category": "Medium",
+    "state": "Gujarat",
+    "registration_date": "2025-12-30",
+    "valid_until": "2027-08-27",
+    "pan": "KGGCZ6012H",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-72-7472978",
+    "company_name": "Chahal, Mander and Bose",
+    "category": "Small",
+    "state": "Chhattisgarh",
+    "registration_date": "2024-07-03",
+    "valid_until": "2027-08-27",
+    "pan": "QKECY1772M",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-15-8504272",
+    "company_name": "Dugar and Sons",
+    "category": "Small",
+    "state": "Uttar Pradesh",
+    "registration_date": "2025-08-19",
+    "valid_until": "2027-08-27",
+    "pan": "NTKCN7901D",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-66-5607988",
+    "company_name": "Kade-Shere",
+    "category": "Micro",
+    "state": "Himachal Pradesh",
+    "registration_date": "2024-10-09",
+    "valid_until": "2027-08-27",
+    "pan": "DCBCP3241Q",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-67-8220615",
+    "company_name": "Natt LLC",
+    "category": "Micro",
+    "state": "Rajasthan",
+    "registration_date": "2026-01-14",
+    "valid_until": "2027-08-27",
+    "pan": "RLOCD2981L",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-UP-22-6906673",
+    "company_name": "Bumb, Pandya and Parmar",
+    "category": "Micro",
+    "state": "Meghalaya",
+    "registration_date": "2024-02-13",
+    "valid_until": "2027-08-27",
+    "pan": "TWUCB1257M",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-KA-49-5573934",
+    "company_name": "Bobal-Sridhar",
+    "category": "Medium",
+    "state": "Odisha",
+    "registration_date": "2023-12-24",
+    "valid_until": "2026-05-29",
+    "pan": "HZICX2002C",
+    "status": "Expired"
+  },
+  {
+    "udyam_number": "UDYAM-MH-64-7416257",
+    "company_name": "Sahni-Kapadia",
+    "category": "Medium",
+    "state": "Arunachal Pradesh",
+    "registration_date": "2026-05-19",
+    "valid_until": "2027-08-27",
+    "pan": "BEYCU6314H",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-97-4515359",
+    "company_name": "Nath LLC",
+    "category": "Medium",
+    "state": "Odisha",
+    "registration_date": "2026-02-25",
+    "valid_until": "2027-08-27",
+    "pan": "NJOCG9669L",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-80-2958946",
+    "company_name": "Grover, Devan and Ravi",
+    "category": "Medium",
+    "state": "Himachal Pradesh",
+    "registration_date": "2024-05-30",
+    "valid_until": "2027-08-27",
+    "pan": "WHMCO5650G",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-17-5451552",
+    "company_name": "Devan, Bajwa and Purohit",
+    "category": "Micro",
+    "state": "Kerala",
+    "registration_date": "2025-06-11",
+    "valid_until": "2027-08-27",
+    "pan": "HRGCM9203F",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-UP-98-1258199",
+    "company_name": "Gaba-Mann",
+    "category": "Medium",
+    "state": "West Bengal",
+    "registration_date": "2025-09-19",
+    "valid_until": "2026-03-07",
+    "pan": "RPBCV5533X",
+    "status": "Expired"
+  },
+  {
+    "udyam_number": "UDYAM-DL-67-2013026",
+    "company_name": "Comar-Gupta",
+    "category": "Micro",
+    "state": "Kerala",
+    "registration_date": "2025-01-12",
+    "valid_until": "2027-08-27",
+    "pan": "GOICV4171I",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-50-6600529",
+    "company_name": "Sanghvi, Ramakrishnan and Kala",
+    "category": "Micro",
+    "state": "Karnataka",
+    "registration_date": "2024-12-23",
+    "valid_until": "2025-09-15",
+    "pan": "XLECJ8464V",
+    "status": "Cancelled"
+  },
+  {
+    "udyam_number": "UDYAM-UP-54-3404848",
+    "company_name": "Lanka-Tandon",
+    "category": "Medium",
+    "state": "Jharkhand",
+    "registration_date": "2025-07-21",
+    "valid_until": "2027-08-27",
+    "pan": "TAICS8050R",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-25-3321563",
+    "company_name": "Dugal Inc",
+    "category": "Small",
+    "state": "Arunachal Pradesh",
+    "registration_date": "2025-06-05",
+    "valid_until": "2027-08-27",
+    "pan": "ELFCI9140I",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-94-1297594",
+    "company_name": "Luthra, Lala and Saini",
+    "category": "Small",
+    "state": "Punjab",
+    "registration_date": "2024-12-07",
+    "valid_until": "2027-08-27",
+    "pan": "YXGCW9708S",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-64-7381871",
+    "company_name": "Borah, Malhotra and Chad",
+    "category": "Small",
+    "state": "Himachal Pradesh",
+    "registration_date": "2024-05-28",
+    "valid_until": "2027-08-27",
+    "pan": "ITECT7067V",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-39-9301977",
+    "company_name": "Saraf, Ahluwalia and Kaul",
+    "category": "Micro",
+    "state": "Madhya Pradesh",
+    "registration_date": "2025-08-12",
+    "valid_until": "2027-08-27",
+    "pan": "JWTCJ5151C",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-75-2234842",
+    "company_name": "Mohanty-Shah",
+    "category": "Medium",
+    "state": "Assam",
+    "registration_date": "2026-05-08",
+    "valid_until": "2027-08-27",
+    "pan": "MIICN5861F",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-MH-45-1093374",
+    "company_name": "Sur, Sami and Chopra",
+    "category": "Medium",
+    "state": "Meghalaya",
+    "registration_date": "2024-05-30",
+    "valid_until": "2027-08-27",
+    "pan": "ZIFCV4407O",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-62-2518836",
+    "company_name": "D\u2019Alia, Wagle and Swaminathan",
+    "category": "Medium",
+    "state": "Chhattisgarh",
+    "registration_date": "2025-01-02",
+    "valid_until": "2027-08-27",
+    "pan": "VIPCF5241T",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-26-6827395",
+    "company_name": "Sahni Inc",
+    "category": "Medium",
+    "state": "Maharashtra",
+    "registration_date": "2024-11-10",
+    "valid_until": "2027-08-27",
+    "pan": "IYMCV8638P",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-55-9504425",
+    "company_name": "Setty PLC",
+    "category": "Micro",
+    "state": "Bihar",
+    "registration_date": "2025-09-26",
+    "valid_until": "2025-09-25",
+    "pan": "ULJCO9320N",
+    "status": "Cancelled"
+  },
+  {
+    "udyam_number": "UDYAM-UP-78-9756014",
+    "company_name": "Misra Ltd",
+    "category": "Micro",
+    "state": "Rajasthan",
+    "registration_date": "2025-07-02",
+    "valid_until": "2026-07-13",
+    "pan": "DJNCV8473X",
+    "status": "Expired"
+  },
+  {
+    "udyam_number": "UDYAM-GJ-44-3201405",
+    "company_name": "Sandhu, Devan and Yohannan",
+    "category": "Micro",
+    "state": "Arunachal Pradesh",
+    "registration_date": "2025-02-17",
+    "valid_until": "2027-08-27",
+    "pan": "VXZCL7455M",
+    "status": "Active"
+  },
+  {
+    "udyam_number": "UDYAM-DL-35-9091746",
+    "company_name": "Narayan, Comar and Mand",
+    "category": "Micro",
+    "state": "Gujarat",
+    "registration_date": "2024-05-08",
+    "valid_until": "2027-08-27",
+    "pan": "YRICP4983W",
+    "status": "Active"
+  }
+]

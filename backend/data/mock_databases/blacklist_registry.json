@@ -1,0 +1,202 @@
+[
+  {
+    "company_name": "Lala Inc",
+    "pan": "TBVCO9439X",
+    "gstin": "27TBVCO9439X1ZN",
+    "reason": "Debarment order",
+    "debarment_date": "2026-01-27",
+    "debarment_until": "2028-09-07",
+    "ordering_authority": "CPWD",
+    "order_number": "ORD/7043"
+  },
+  {
+    "company_name": "Sama-Srivastava",
+    "pan": "MMPCI2498U",
+    "gstin": "21MMPCI2498U1ZY",
+    "reason": "Debarment order",
+    "debarment_date": "2026-06-02",
+    "debarment_until": "2027-01-05",
+    "ordering_authority": "CPWD",
+    "order_number": "ORD/7778"
+  },
+  {
+    "company_name": "Ben-Sabharwal",
+    "pan": "COACJ5737L",
+    "gstin": "06COACJ5737L1ZQ",
+    "reason": "Fraud",
+    "debarment_date": "2026-06-27",
+    "debarment_until": "2029-05-10",
+    "ordering_authority": "CPWD",
+    "order_number": "ORD/7935"
+  },
+  {
+    "company_name": "Sarna LLC",
+    "pan": "WMDCI1872W",
+    "gstin": "29WMDCI1872W1ZC",
+    "reason": "Non-performance",
+    "debarment_date": "2026-08-20",
+    "debarment_until": "2029-05-05",
+    "ordering_authority": "Ministry of Defence",
+    "order_number": "ORD/9020"
+  },
+  {
+    "company_name": "Som-Balay",
+    "pan": "AUJCX4839L",
+    "gstin": "08AUJCX4839L1ZE",
+    "reason": "Non-performance",
+    "debarment_date": "2025-08-04",
+    "debarment_until": "2028-07-24",
+    "ordering_authority": "CPWD",
+    "order_number": "ORD/1375"
+  },
+  {
+    "company_name": "Sachar Inc",
+    "pan": "JLHCI2341L",
+    "gstin": "18JLHCI2341L1Z8",
+    "reason": "Fraud",
+    "debarment_date": "2026-05-10",
+    "debarment_until": "2027-07-20",
+    "ordering_authority": "Railways",
+    "order_number": "ORD/8258"
+  },
+  {
+    "company_name": "Ray, Bora and Dhar",
+    "pan": "SBVCI6519I",
+    "gstin": "32SBVCI6519I1ZK",
+    "reason": "Non-performance",
+    "debarment_date": "2026-07-16",
+    "debarment_until": "2027-01-23",
+    "ordering_authority": "Railways",
+    "order_number": "ORD/6186"
+  },
+  {
+    "company_name": "Gaba LLC",
+    "pan": "KDTCD2880K",
+    "gstin": "01KDTCD2880K1ZQ",
+    "reason": "Fraud",
+    "debarment_date": "2026-03-24",
+    "debarment_until": "2028-03-05",
+    "ordering_authority": "CPWD",
+    "order_number": "ORD/1779"
+  },
+  {
+    "company_name": "Maharaj Ltd",
+    "pan": "HLJCJ3985I",
+    "gstin": "02HLJCJ3985I1Z5",
+    "reason": "Non-performance",
+    "debarment_date": "2025-12-07",
+    "debarment_until": "2027-12-18",
+    "ordering_authority": "Railways",
+    "order_number": "ORD/7334"
+  },
+  {
+    "company_name": "Sarma PLC",
+    "pan": "LSDCI9150Y",
+    "gstin": "25LSDCI9150Y1ZT",
+    "reason": "Debarment order",
+    "debarment_date": "2025-12-28",
+    "debarment_until": "2027-09-12",
+    "ordering_authority": "Railways",
+    "order_number": "ORD/5372"
+  },
+  {
+    "company_name": "Natarajan-Raja",
+    "pan": "KUNCL2786J",
+    "gstin": "26KUNCL2786J1ZW",
+    "reason": "Non-performance",
+    "debarment_date": "2026-01-02",
+    "debarment_until": "2027-06-13",
+    "ordering_authority": "CPWD",
+    "order_number": "ORD/1233"
+  },
+  {
+    "company_name": "Bassi, Yohannan and Parikh",
+    "pan": "WOZCF5596F",
+    "gstin": "35WOZCF5596F1ZG",
+    "reason": "Non-performance",
+    "debarment_date": "2026-07-13",
+    "debarment_until": "2027-11-28",
+    "ordering_authority": "Railways",
+    "order_number": "ORD/8116"
+  },
+  {
+    "company_name": "Arya-Shenoy",
+    "pan": "RQSCH4456Q",
+    "gstin": "30RQSCH4456Q1Z2",
+    "reason": "Non-performance",
+    "debarment_date": "2025-02-06",
+    "debarment_until": "2028-01-29",
+    "ordering_authority": "CPWD",
+    "order_number": "ORD/2559"
+  },
+  {
+    "company_name": "Devi-Srinivasan",
+    "pan": "TFACB7581H",
+    "gstin": "13TFACB7581H1ZP",
+    "reason": "Non-performance",
+    "debarment_date": "2026-05-01",
+    "debarment_until": "2028-07-05",
+    "ordering_authority": "Ministry of Defence",
+    "order_number": "ORD/6419"
+  },
+  {
+    "company_name": "Sehgal, Zacharia and Tella",
+    "pan": "RPBCV5533X",
+    "gstin": "22RPBCV5533X1Z7",
+    "reason": "Non-performance",
+    "debarment_date": "2025-10-11",
+    "debarment_until": "2027-02-24",
+    "ordering_authority": "Railways",
+    "order_number": "ORD/1337"
+  },
+  {
+    "company_name": "Gara-Sachdev",
+    "pan": "GYBCA9136T",
+    "gstin": "19GYBCA9136T1ZH",
+    "reason": "Non-performance",
+    "debarment_date": "2024-11-18",
+    "debarment_until": "2028-01-20",
+    "ordering_authority": "Railways",
+    "order_number": "ORD/5798"
+  },
+  {
+    "company_name": "Lanka-Tandon",
+    "pan": "TAICS8050R",
+    "gstin": "02TAICS8050R1ZY",
+    "reason": "Non-performance",
+    "debarment_date": "2026-08-17",
+    "debarment_until": "2026-12-09",
+    "ordering_authority": "CPWD",
+    "order_number": "ORD/4864"
+  },
+  {
+    "company_name": "D\u2019Alia, Wagle and Swaminathan",
+    "pan": "VIPCF5241T",
+    "gstin": "04VIPCF5241T1ZA",
+    "reason": "Non-performance",
+    "debarment_date": "2025-07-09",
+    "debarment_until": "2027-01-26",
+    "ordering_authority": "Ministry of Defence",
+    "order_number": "ORD/5539"
+  },
+  {
+    "company_name": "Sawhney, Radhakrishnan and Nagar",
+    "pan": "RNICP2159Z",
+    "gstin": "15RNICP2159Z1ZO",
+    "reason": "Fraud",
+    "debarment_date": "2026-07-15",
+    "debarment_until": "2029-03-11",
+    "ordering_authority": "Railways",
+    "order_number": "ORD/5227"
+  },
+  {
+    "company_name": "Kari, Kashyap and Tata",
+    "pan": "ZKFCF6119E",
+    "gstin": "05ZKFCF6119E1ZS",
+    "reason": "Fraud",
+    "debarment_date": "2026-03-27",
+    "debarment_until": "2028-04-14",
+    "ordering_authority": "Railways",
+    "order_number": "ORD/1769"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "dpiit_number": "DIPP/22508",
+    "company_name": "Borde-Brahmbhatt",
+    "recognition_date": "2025-05-23",
+    "valid_until": "2030-03-17",
+    "sector": "IT Services",
+    "pan": "TBFCQ7169Z",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/71274",
+    "company_name": "Srinivas, Swamy and Bath",
+    "recognition_date": "2025-12-24",
+    "valid_until": "2033-09-12",
+    "sector": "EdTech",
+    "pan": "QNXCV9639E",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/55161",
+    "company_name": "Mann, Sur and Raghavan",
+    "recognition_date": "2025-03-16",
+    "valid_until": "2031-08-31",
+    "sector": "IT Services",
+    "pan": "MPCCO4734V",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/48250",
+    "company_name": "Kalita, Handa and Divan",
+    "recognition_date": "2025-02-25",
+    "valid_until": "2033-12-25",
+    "sector": "Manufacturing",
+    "pan": "XENCH5192Y",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/67032",
+    "company_name": "Om-Munshi",
+    "recognition_date": "2026-03-21",
+    "valid_until": "2033-12-30",
+    "sector": "IT Services",
+    "pan": "GPYCQ6558A",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/60956",
+    "company_name": "Sama-Srivastava",
+    "recognition_date": "2026-04-06",
+    "valid_until": "2034-05-16",
+    "sector": "Manufacturing",
+    "pan": "MMPCI2498U",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/57537",
+    "company_name": "Sharaf, Rao and Pradhan",
+    "recognition_date": "2025-05-17",
+    "valid_until": "2032-08-14",
+    "sector": "EdTech",
+    "pan": "CDSCA5255H",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/58449",
+    "company_name": "Som-Balay",
+    "recognition_date": "2025-04-19",
+    "valid_until": "2032-05-07",
+    "sector": "Manufacturing",
+    "pan": "AUJCX4839L",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/79979",
+    "company_name": "Samra-Yadav",
+    "recognition_date": "2025-10-23",
+    "valid_until": "2033-03-07",
+    "sector": "Manufacturing",
+    "pan": "XEUCB6580B",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/23967",
+    "company_name": "Oommen, Swaminathan and Magar",
+    "recognition_date": "2025-02-02",
+    "valid_until": "2030-10-27",
+    "sector": "EdTech",
+    "pan": "XNYCS9511L",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/10952",
+    "company_name": "Contractor and Sons",
+    "recognition_date": "2024-03-28",
+    "valid_until": "2029-06-05",
+    "sector": "Healthcare",
+    "pan": "YBFCQ7041F",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/92332",
+    "company_name": "Dugar, Wali and Kara",
+    "recognition_date": "2024-02-13",
+    "valid_until": "2032-04-22",
+    "sector": "Manufacturing",
+    "pan": "RFACH6090P",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/16462",
+    "company_name": "Shroff, Mitter and Halder",
+    "recognition_date": "2025-12-24",
+    "valid_until": "2029-12-10",
+    "sector": "IT Services",
+    "pan": "NYQCD7631R",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/71326",
+    "company_name": "Sharaf-Chand",
+    "recognition_date": "2025-12-31",
+    "valid_until": "2032-03-11",
+    "sector": "IT Services",
+    "pan": "RJDCN2044K",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/11153",
+    "company_name": "Sani, Wagle and Setty",
+    "recognition_date": "2024-09-22",
+    "valid_until": "2030-04-14",
+    "sector": "Healthcare",
+    "pan": "YFBCI5650E",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/47361",
+    "company_name": "Vyas-Baria",
+    "recognition_date": "2026-03-03",
+    "valid_until": "2032-07-07",
+    "sector": "EdTech",
+    "pan": "QYACJ6950K",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/43429",
+    "company_name": "Sura, Raj and Bir",
+    "recognition_date": "2023-12-17",
+    "valid_until": "2033-09-19",
+    "sector": "IT Services",
+    "pan": "SGVCZ1598P",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/21576",
+    "company_name": "Samra-Tak",
+    "recognition_date": "2024-11-09",
+    "valid_until": "2033-07-17",
+    "sector": "EdTech",
+    "pan": "QLSCR9095P",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/41821",
+    "company_name": "Chawla, Rao and Minhas",
+    "recognition_date": "2026-01-18",
+    "valid_until": "2034-06-29",
+    "sector": "IT Services",
+    "pan": "SXNCF8870P",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/71529",
+    "company_name": "Patla LLC",
+    "recognition_date": "2026-04-04",
+    "valid_until": "2031-10-13",
+    "sector": "EdTech",
+    "pan": "DKLCB2690N",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/22014",
+    "company_name": "Mittal-Bath",
+    "recognition_date": "2026-04-09",
+    "valid_until": "2030-03-08",
+    "sector": "Healthcare",
+    "pan": "ZGHCV8115X",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/37257",
+    "company_name": "Chandran and Sons",
+    "recognition_date": "2026-08-01",
+    "valid_until": "2031-05-02",
+    "sector": "IT Services",
+    "pan": "XBOCN4046S",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/90226",
+    "company_name": "Roy-Oak",
+    "recognition_date": "2026-03-12",
+    "valid_until": "2032-05-14",
+    "sector": "Healthcare",
+    "pan": "GXVCV8495H",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/86728",
+    "company_name": "Wagle, Sane and Chand",
+    "recognition_date": "2025-10-20",
+    "valid_until": "2031-08-16",
+    "sector": "Manufacturing",
+    "pan": "CYXCC3949J",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/79788",
+    "company_name": "Sura PLC",
+    "recognition_date": "2024-07-23",
+    "valid_until": "2031-02-05",
+    "sector": "EdTech",
+    "pan": "OVOCS7651B",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/93164",
+    "company_name": "Bal LLC",
+    "recognition_date": "2024-04-23",
+    "valid_until": "2034-05-09",
+    "sector": "Healthcare",
+    "pan": "UXRCS7730M",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/55764",
+    "company_name": "Sankar and Sons",
+    "recognition_date": "2024-10-10",
+    "valid_until": "2033-08-20",
+    "sector": "Manufacturing",
+    "pan": "DQWCG5212P",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/25950",
+    "company_name": "Sachdev Ltd",
+    "recognition_date": "2025-11-16",
+    "valid_until": "2033-02-07",
+    "sector": "Manufacturing",
+    "pan": "ESCCZ5216I",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/51757",
+    "company_name": "Sachdeva-Bal",
+    "recognition_date": "2024-10-21",
+    "valid_until": "2030-12-22",
+    "sector": "EdTech",
+    "pan": "LNECJ8781P",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/14922",
+    "company_name": "Balakrishnan Ltd",
+    "recognition_date": "2025-07-05",
+    "valid_until": "2034-08-30",
+    "sector": "Healthcare",
+    "pan": "WZICL1840S",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/48874",
+    "company_name": "Ray-Grover",
+    "recognition_date": "2026-01-07",
+    "valid_until": "2031-09-25",
+    "sector": "EdTech",
+    "pan": "NHOCT7286D",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/20177",
+    "company_name": "Aurora, Lad and Mangat",
+    "recognition_date": "2024-02-09",
+    "valid_until": "2034-04-23",
+    "sector": "Manufacturing",
+    "pan": "CAZCG5837A",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/63511",
+    "company_name": "Luthra, Tandon and Karan",
+    "recognition_date": "2024-07-02",
+    "valid_until": "2030-01-24",
+    "sector": "Manufacturing",
+    "pan": "SMNCP3695Y",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/96021",
+    "company_name": "Hora Group",
+    "recognition_date": "2024-11-10",
+    "valid_until": "2029-07-13",
+    "sector": "Manufacturing",
+    "pan": "FPNCK7400T",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/32217",
+    "company_name": "Kapadia, Sood and Nigam",
+    "recognition_date": "2025-11-10",
+    "valid_until": "2031-09-04",
+    "sector": "Healthcare",
+    "pan": "PBHCU2758X",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/66448",
+    "company_name": "Tara and Sons",
+    "recognition_date": "2024-09-24",
+    "valid_until": "2034-02-25",
+    "sector": "Healthcare",
+    "pan": "FSZCU4304Q",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/95384",
+    "company_name": "Bassi, Yohannan and Parikh",
+    "recognition_date": "2025-06-17",
+    "valid_until": "2031-11-21",
+    "sector": "EdTech",
+    "pan": "WOZCF5596F",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/91942",
+    "company_name": "Nayar PLC",
+    "recognition_date": "2025-02-07",
+    "valid_until": "2032-02-05",
+    "sector": "Healthcare",
+    "pan": "HBZCD2868S",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/80822",
+    "company_name": "Devi-Srinivasan",
+    "recognition_date": "2025-02-02",
+    "valid_until": "2033-10-29",
+    "sector": "Manufacturing",
+    "pan": "TFACB7581H",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/12813",
+    "company_name": "Chanda Inc",
+    "recognition_date": "2024-04-12",
+    "valid_until": "2034-06-17",
+    "sector": "Healthcare",
+    "pan": "RGUCC6137A",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/30312",
+    "company_name": "Barad-Ray",
+    "recognition_date": "2025-07-14",
+    "valid_until": "2032-07-30",
+    "sector": "Manufacturing",
+    "pan": "AUFCK3736O",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/73710",
+    "company_name": "Minhas, Hayre and Loke",
+    "recognition_date": "2024-08-18",
+    "valid_until": "2030-09-13",
+    "sector": "Healthcare",
+    "pan": "NYFCZ8899Q",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/49937",
+    "company_name": "Varughese Inc",
+    "recognition_date": "2025-10-08",
+    "valid_until": "2030-02-23",
+    "sector": "EdTech",
+    "pan": "DPPCS4399Q",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/27568",
+    "company_name": "Acharya-Ghose",
+    "recognition_date": "2024-06-19",
+    "valid_until": "2030-12-27",
+    "sector": "Healthcare",
+    "pan": "IIKCQ3561N",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/23130",
+    "company_name": "Gole, Nadig and Dugar",
+    "recognition_date": "2024-07-04",
+    "valid_until": "2031-06-15",
+    "sector": "IT Services",
+    "pan": "CCJCZ5197L",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/68504",
+    "company_name": "Majumdar, Ghose and Reddy",
+    "recognition_date": "2025-08-17",
+    "valid_until": "2029-08-26",
+    "sector": "EdTech",
+    "pan": "VEYCI2156T",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/28265",
+    "company_name": "Sachdev-Viswanathan",
+    "recognition_date": "2025-05-20",
+    "valid_until": "2034-10-07",
+    "sector": "Manufacturing",
+    "pan": "HIQCY1581X",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/17758",
+    "company_name": "Pathak-Saraf",
+    "recognition_date": "2024-12-09",
+    "valid_until": "2032-02-06",
+    "sector": "Healthcare",
+    "pan": "BAGCG1240I",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/39624",
+    "company_name": "Sawhney, Radhakrishnan and Nagar",
+    "recognition_date": "2025-08-01",
+    "valid_until": "2034-02-25",
+    "sector": "Healthcare",
+    "pan": "RNICP2159Z",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/68036",
+    "company_name": "Mand PLC",
+    "recognition_date": "2026-06-05",
+    "valid_until": "2032-11-15",
+    "sector": "EdTech",
+    "pan": "AVXCI8722I",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/41991",
+    "company_name": "Som-Chad",
+    "recognition_date": "2025-08-02",
+    "valid_until": "2030-10-04",
+    "sector": "Manufacturing",
+    "pan": "VENCY4712A",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/79901",
+    "company_name": "Narula and Sons",
+    "recognition_date": "2024-11-03",
+    "valid_until": "2034-11-05",
+    "sector": "Healthcare",
+    "pan": "CIXCC5095A",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/38602",
+    "company_name": "Pandit PLC",
+    "recognition_date": "2025-03-03",
+    "valid_until": "2032-03-05",
+    "sector": "EdTech",
+    "pan": "PWJCQ6116N",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/80601",
+    "company_name": "Ray-Chaudhuri",
+    "recognition_date": "2024-06-10",
+    "valid_until": "2033-04-03",
+    "sector": "Healthcare",
+    "pan": "ATNCP3063J",
+    "status": "Active"
+  },
+  {
+    "dpiit_number": "DIPP/83375",
+    "company_name": "Mammen LLC",
+    "recognition_date": "2025-07-24",
+    "valid_until": "2032-07-31",
+    "sector": "Manufacturing",
+    "pan": "ZENCR9869B",
+    "status": "Active"
+  }
+]

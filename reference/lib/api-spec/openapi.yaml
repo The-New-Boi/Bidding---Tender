@@ -1,0 +1,301 @@
+openapi: 3.1.0
+info:
+  # Do not change the title, if the title changes, the import paths will be broken
+  title: Api
+  version: 0.1.0
+  description: API specification
+servers:
+  - url: /api
+    description: Base API path
+tags:
+  - name: health
+    description: Health operations
+  - name: compliance
+    description: Bid compliance verification operations
+  - name: activity
+    description: Audit activity
+paths:
+  /healthz:
+    get:
+      operationId: healthCheck
+      tags: [health]
+      summary: Health check
+      description: Returns server health status
+      responses:
+        "200":
+          description: Healthy
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthStatus"
+  /dashboard:
+    get:
+      operationId: getDashboard
+      tags: [compliance]
+      summary: Get compliance dashboard summary
+      responses:
+        "200":
+          description: Dashboard summary
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Dashboard"
+  /bidders:
+    get:
+      operationId: listBidders
+      tags: [compliance]
+      summary: List bidder compliance records
+      parameters:
+        - name: search
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: risk
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: [all, low, medium, high]
+        - name: status
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: [all, verified, review, blocked]
+      responses:
+        "200":
+          description: Bidder records
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Bidder"
+  /bidders/{bidderId}:
+    get:
+      operationId: getBidder
+      tags: [compliance]
+      summary: Get a bidder compliance record
+      parameters:
+        - name: bidderId
+          in: path
+          required: true
+          schema:
+            type: number
+      responses:
+        "200":
+          description: Bidder detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/BidderDetail"
+        "404":
+          description: Bidder not found
+  /verification/run:
+    post:
+      operationId: runVerification
+      tags: [compliance]
+      summary: Run government portal and AI verification
+      requestBody:
+        required: false
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/VerificationInput"
+      responses:
+        "200":
+          description: Verification run result
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/VerificationRun"
+  /activity:
+    get:
+      operationId: listActivity
+      tags: [activity]
+      summary: List recent audit activity
+      responses:
+        "200":
+          description: Recent activity
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Activity"
+  /reports/export:
+    get:
+      operationId: exportReport
+      tags: [compliance]
+      summary: Export a compliance report payload
+      responses:
+        "200":
+          description: Export-ready report
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ExportReport"
+components:
+  schemas:
+    HealthStatus:
+      type: object
+      properties:
+        status:
+          type: string
+      required:
+        - status
+    ComplianceStatus:
+      type: string
+      enum: [verified, review, blocked]
+    RiskLevel:
+      type: string
+      enum: [low, medium, high]
+    VerificationState:
+      type: string
+      enum: [verified, warning, failed, pending]
+    ComplianceCheck:
+      type: object
+      properties:
+        key:
+          type: string
+        label:
+          type: string
+        source:
+          type: string
+        state:
+          $ref: "#/components/schemas/VerificationState"
+        value:
+          type: string
+        finding:
+          type: string
+        recommendation:
+          type: string
+        verifiedAt:
+          type: string
+      required: [key, label, source, state, value, finding, recommendation, verifiedAt]
+    Bidder:
+      type: object
+      properties:
+        id:
+          type: number
+        companyName:
+          type: string
+        pan:
+          type: string
+        gstin:
+          type: string
+        city:
+          type: string
+        category:
+          type: string
+        riskScore:
+          type: number
+        risk:
+          $ref: "#/components/schemas/RiskLevel"
+        status:
+          $ref: "#/components/schemas/ComplianceStatus"
+        checksPassed:
+          type: number
+        checksTotal:
+          type: number
+        lastVerified:
+          type: string
+        initials:
+          type: string
+      required: [id, companyName, pan, gstin, city, category, riskScore, risk, status, checksPassed, checksTotal, lastVerified, initials]
+    BidderDetail:
+      allOf:
+        - $ref: "#/components/schemas/Bidder"
+        - type: object
+          properties:
+            checks:
+              type: array
+              items:
+                $ref: "#/components/schemas/ComplianceCheck"
+            aiSummary:
+              type: string
+            aiRecommendation:
+              type: string
+            documents:
+              type: array
+              items:
+                type: string
+          required: [checks, aiSummary, aiRecommendation, documents]
+    Dashboard:
+      type: object
+      properties:
+        totalBidders:
+          type: number
+        verified:
+          type: number
+        needsReview:
+          type: number
+        blocked:
+          type: number
+        averageRisk:
+          type: number
+        verificationCoverage:
+          type: number
+        riskBreakdown:
+          type: object
+          properties:
+            low: { type: number }
+            medium: { type: number }
+            high: { type: number }
+          required: [low, medium, high]
+        sourceHealth:
+          type: array
+          items:
+            type: object
+            properties:
+              source: { type: string }
+              label: { type: string }
+              status: { type: string }
+              latency: { type: number }
+              lastSync: { type: string }
+            required: [source, label, status, latency, lastSync]
+      required: [totalBidders, verified, needsReview, blocked, averageRisk, verificationCoverage, riskBreakdown, sourceHealth]
+    VerificationInput:
+      type: object
+      properties:
+        bidderIds:
+          type: array
+          items: { type: number }
+    VerificationRun:
+      type: object
+      properties:
+        runId: { type: string }
+        processed: { type: number }
+        updated: { type: number }
+        completedAt: { type: string }
+        aiProvider: { type: string }
+        message: { type: string }
+      required: [runId, processed, updated, completedAt, aiProvider, message]
+    Activity:
+      type: object
+      properties:
+        id: { type: number }
+        action: { type: string }
+        detail: { type: string }
+        actor: { type: string }
+        createdAt: { type: string }
+        tone:
+          type: string
+          enum: [success, warning, info]
+      required: [id, action, detail, actor, createdAt, tone]
+    ExportReport:
+      type: object
+      properties:
+        filename: { type: string }
+        generatedAt: { type: string }
+        columns:
+          type: array
+          items: { type: string }
+        rows:
+          type: array
+          items:
+            type: array
+            items: { type: string }
+      required: [filename, generatedAt, columns, rows]
+

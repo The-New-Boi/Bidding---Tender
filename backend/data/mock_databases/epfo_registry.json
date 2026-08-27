@@ -1,0 +1,834 @@
+[
+  {
+    "establishment_code": "KABOM6898887000",
+    "company_name": "Gour-Bir",
+    "state": "Rajasthan",
+    "employee_count": 380,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-01-08"
+  },
+  {
+    "establishment_code": "KABOM5826068000",
+    "company_name": "Lata, Sibal and Doctor",
+    "state": "Goa",
+    "employee_count": 284,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2025-12-21"
+  },
+  {
+    "establishment_code": "DLDEL2035999000",
+    "company_name": "Natarajan-Gera",
+    "state": "Assam",
+    "employee_count": 354,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-12-21"
+  },
+  {
+    "establishment_code": "MHBAN8542832000",
+    "company_name": "Lanka Inc",
+    "state": "Bihar",
+    "employee_count": 40,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-21"
+  },
+  {
+    "establishment_code": "MHDEL5059403000",
+    "company_name": "Oak, Barad and Kala",
+    "state": "Haryana",
+    "employee_count": 380,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-17"
+  },
+  {
+    "establishment_code": "DLDEL9941570000",
+    "company_name": "Gulati, Ravel and Dhar",
+    "state": "Goa",
+    "employee_count": 475,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-15"
+  },
+  {
+    "establishment_code": "DLDEL2885991000",
+    "company_name": "Sarma-Mani",
+    "state": "Telangana",
+    "employee_count": 77,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-30"
+  },
+  {
+    "establishment_code": "KADEL4199878000",
+    "company_name": "Srinivas, Swamy and Bath",
+    "state": "Sikkim",
+    "employee_count": 116,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-03"
+  },
+  {
+    "establishment_code": "DLDEL9343128000",
+    "company_name": "Radhakrishnan-Naik",
+    "state": "Tamil Nadu",
+    "employee_count": 52,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-06"
+  },
+  {
+    "establishment_code": "KABOM4142343000",
+    "company_name": "Char, Dada and Korpal",
+    "state": "Maharashtra",
+    "employee_count": 123,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-19"
+  },
+  {
+    "establishment_code": "KABAN7092914000",
+    "company_name": "Vyas LLC",
+    "state": "Jharkhand",
+    "employee_count": 91,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-09-12"
+  },
+  {
+    "establishment_code": "KABAN8549077000",
+    "company_name": "Bali-Guha",
+    "state": "Chhattisgarh",
+    "employee_count": 448,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-04-04"
+  },
+  {
+    "establishment_code": "MHBOM5484746000",
+    "company_name": "Koshy, Dass and Varkey",
+    "state": "Uttar Pradesh",
+    "employee_count": 56,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-09"
+  },
+  {
+    "establishment_code": "DLDEL6013306000",
+    "company_name": "Dora, Mane and Kapadia",
+    "state": "Meghalaya",
+    "employee_count": 27,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-03-07"
+  },
+  {
+    "establishment_code": "DLDEL9374437000",
+    "company_name": "Divan-Dhar",
+    "state": "Andhra Pradesh",
+    "employee_count": 169,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-05-29"
+  },
+  {
+    "establishment_code": "MHBAN2296824000",
+    "company_name": "Patla, Brar and Tella",
+    "state": "Himachal Pradesh",
+    "employee_count": 146,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-15"
+  },
+  {
+    "establishment_code": "MHBAN1916541000",
+    "company_name": "Ganesh Ltd",
+    "state": "Uttar Pradesh",
+    "employee_count": 195,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-24"
+  },
+  {
+    "establishment_code": "DLDEL7000025000",
+    "company_name": "Bhandari, Dash and De",
+    "state": "Rajasthan",
+    "employee_count": 312,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-17"
+  },
+  {
+    "establishment_code": "KABAN3597086000",
+    "company_name": "Soni, Pau and Nath",
+    "state": "Karnataka",
+    "employee_count": 310,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-02"
+  },
+  {
+    "establishment_code": "MHBAN2541250000",
+    "company_name": "Samra Ltd",
+    "state": "Tamil Nadu",
+    "employee_count": 208,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-02-27"
+  },
+  {
+    "establishment_code": "DLBOM6624838000",
+    "company_name": "Mitter-Wadhwa",
+    "state": "Maharashtra",
+    "employee_count": 104,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-18"
+  },
+  {
+    "establishment_code": "MHDEL6230248000",
+    "company_name": "Gade, Grewal and Radhakrishnan",
+    "state": "Mizoram",
+    "employee_count": 387,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-01-27"
+  },
+  {
+    "establishment_code": "MHBAN9094238000",
+    "company_name": "Samra-Yadav",
+    "state": "Sikkim",
+    "employee_count": 236,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-08-27"
+  },
+  {
+    "establishment_code": "DLBAN5996013000",
+    "company_name": "Contractor and Sons",
+    "state": "Madhya Pradesh",
+    "employee_count": 418,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2025-09-01"
+  },
+  {
+    "establishment_code": "DLDEL3100112000",
+    "company_name": "Ray, Bora and Dhar",
+    "state": "Odisha",
+    "employee_count": 144,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-27"
+  },
+  {
+    "establishment_code": "KABAN3401807000",
+    "company_name": "Bumb-Bal",
+    "state": "Uttar Pradesh",
+    "employee_count": 468,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-23"
+  },
+  {
+    "establishment_code": "DLBOM1699186000",
+    "company_name": "Bora, Ramanathan and Chauhan",
+    "state": "Tamil Nadu",
+    "employee_count": 269,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-23"
+  },
+  {
+    "establishment_code": "DLDEL7733672000",
+    "company_name": "Naik PLC",
+    "state": "Telangana",
+    "employee_count": 27,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-05-19"
+  },
+  {
+    "establishment_code": "DLBOM5181293000",
+    "company_name": "Gokhale-Sachdeva",
+    "state": "Kerala",
+    "employee_count": 355,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2025-10-09"
+  },
+  {
+    "establishment_code": "MHDEL7641677000",
+    "company_name": "Mutti-Kibe",
+    "state": "Tamil Nadu",
+    "employee_count": 342,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-03"
+  },
+  {
+    "establishment_code": "DLDEL3146815000",
+    "company_name": "Solanki PLC",
+    "state": "Gujarat",
+    "employee_count": 308,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-04"
+  },
+  {
+    "establishment_code": "DLDEL5564248000",
+    "company_name": "Shukla Ltd",
+    "state": "Tamil Nadu",
+    "employee_count": 60,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-04"
+  },
+  {
+    "establishment_code": "MHBAN8166450000",
+    "company_name": "Nagi Inc",
+    "state": "Andhra Pradesh",
+    "employee_count": 358,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-07-20"
+  },
+  {
+    "establishment_code": "MHBOM7974911000",
+    "company_name": "Dey Ltd",
+    "state": "Himachal Pradesh",
+    "employee_count": 207,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-07-19"
+  },
+  {
+    "establishment_code": "KABAN5981797000",
+    "company_name": "Mishra-Raman",
+    "state": "Chhattisgarh",
+    "employee_count": 262,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-25"
+  },
+  {
+    "establishment_code": "KADEL6846848000",
+    "company_name": "Wagle and Sons",
+    "state": "Haryana",
+    "employee_count": 175,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-01-19"
+  },
+  {
+    "establishment_code": "MHBAN8460048000",
+    "company_name": "Sen PLC",
+    "state": "Mizoram",
+    "employee_count": 241,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-07-22"
+  },
+  {
+    "establishment_code": "KABAN5597724000",
+    "company_name": "Choudhary Inc",
+    "state": "Bihar",
+    "employee_count": 422,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-05"
+  },
+  {
+    "establishment_code": "MHBAN7954282000",
+    "company_name": "Shroff, Mitter and Halder",
+    "state": "Arunachal Pradesh",
+    "employee_count": 430,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-02-20"
+  },
+  {
+    "establishment_code": "MHBAN8028850000",
+    "company_name": "Bala, Balasubramanian and Garde",
+    "state": "Manipur",
+    "employee_count": 151,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-06-29"
+  },
+  {
+    "establishment_code": "MHBAN8028759000",
+    "company_name": "Maharaj Ltd",
+    "state": "Haryana",
+    "employee_count": 217,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-03"
+  },
+  {
+    "establishment_code": "KABOM9368016000",
+    "company_name": "Sarma PLC",
+    "state": "Uttarakhand",
+    "employee_count": 260,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-11-01"
+  },
+  {
+    "establishment_code": "MHBOM5765336000",
+    "company_name": "Chana, Saxena and Jain",
+    "state": "Gujarat",
+    "employee_count": 154,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-31"
+  },
+  {
+    "establishment_code": "MHBAN3161711000",
+    "company_name": "Sura, Raj and Bir",
+    "state": "Manipur",
+    "employee_count": 493,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-27"
+  },
+  {
+    "establishment_code": "DLDEL3374090000",
+    "company_name": "Samra-Tak",
+    "state": "Rajasthan",
+    "employee_count": 272,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-03-13"
+  },
+  {
+    "establishment_code": "KABOM6621892000",
+    "company_name": "Mittal-Bath",
+    "state": "Nagaland",
+    "employee_count": 115,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-06-04"
+  },
+  {
+    "establishment_code": "MHBAN4900813000",
+    "company_name": "Roy-Oak",
+    "state": "Karnataka",
+    "employee_count": 497,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-07-29"
+  },
+  {
+    "establishment_code": "MHBOM4275787000",
+    "company_name": "Wagle, Sane and Chand",
+    "state": "Tripura",
+    "employee_count": 184,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-07-02"
+  },
+  {
+    "establishment_code": "DLDEL3649668000",
+    "company_name": "Sura PLC",
+    "state": "Tripura",
+    "employee_count": 226,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-13"
+  },
+  {
+    "establishment_code": "KADEL3183470000",
+    "company_name": "Dey, Bajwa and Ranganathan",
+    "state": "Chhattisgarh",
+    "employee_count": 72,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-08-08"
+  },
+  {
+    "establishment_code": "KADEL7878393000",
+    "company_name": "Bal LLC",
+    "state": "Assam",
+    "employee_count": 315,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-24"
+  },
+  {
+    "establishment_code": "KABAN2264207000",
+    "company_name": "Sankar and Sons",
+    "state": "Assam",
+    "employee_count": 60,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-05"
+  },
+  {
+    "establishment_code": "DLDEL2490590000",
+    "company_name": "Tank and Sons",
+    "state": "Andhra Pradesh",
+    "employee_count": 33,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-23"
+  },
+  {
+    "establishment_code": "MHBOM4502505000",
+    "company_name": "Sahni-Sachar",
+    "state": "Meghalaya",
+    "employee_count": 386,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-07-16"
+  },
+  {
+    "establishment_code": "KABAN6182792000",
+    "company_name": "Devi, Bobal and Sankaran",
+    "state": "Uttar Pradesh",
+    "employee_count": 204,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-23"
+  },
+  {
+    "establishment_code": "KABOM8545475000",
+    "company_name": "Doshi-Kaur",
+    "state": "Odisha",
+    "employee_count": 289,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-03-29"
+  },
+  {
+    "establishment_code": "MHBAN9479864000",
+    "company_name": "Kanda LLC",
+    "state": "Nagaland",
+    "employee_count": 53,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2025-10-28"
+  },
+  {
+    "establishment_code": "KADEL7902243000",
+    "company_name": "Sachdev Ltd",
+    "state": "Goa",
+    "employee_count": 142,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-02-18"
+  },
+  {
+    "establishment_code": "MHBAN3531858000",
+    "company_name": "Sachdeva-Bal",
+    "state": "Uttarakhand",
+    "employee_count": 219,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-07"
+  },
+  {
+    "establishment_code": "KABAN7125029000",
+    "company_name": "Mammen, Mall and Bandi",
+    "state": "Meghalaya",
+    "employee_count": 72,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-03-04"
+  },
+  {
+    "establishment_code": "KADEL8132085000",
+    "company_name": "Chowdhury, Tak and Mangal",
+    "state": "Uttar Pradesh",
+    "employee_count": 133,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-06-29"
+  },
+  {
+    "establishment_code": "MHBAN1781256000",
+    "company_name": "Ray-Grover",
+    "state": "Tamil Nadu",
+    "employee_count": 11,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-14"
+  },
+  {
+    "establishment_code": "KADEL7905452000",
+    "company_name": "Dugar and Sons",
+    "state": "Kerala",
+    "employee_count": 478,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-21"
+  },
+  {
+    "establishment_code": "KABOM2783497000",
+    "company_name": "Bains-Narain",
+    "state": "Nagaland",
+    "employee_count": 14,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-06-28"
+  },
+  {
+    "establishment_code": "KADEL9163667000",
+    "company_name": "Hora Group",
+    "state": "Madhya Pradesh",
+    "employee_count": 351,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-01-24"
+  },
+  {
+    "establishment_code": "KADEL6725593000",
+    "company_name": "Bobal-Sridhar",
+    "state": "Jharkhand",
+    "employee_count": 137,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-09"
+  },
+  {
+    "establishment_code": "MHDEL1604009000",
+    "company_name": "Pillay Group",
+    "state": "West Bengal",
+    "employee_count": 193,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-05"
+  },
+  {
+    "establishment_code": "MHDEL9953018000",
+    "company_name": "Tara and Sons",
+    "state": "West Bengal",
+    "employee_count": 141,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2025-12-15"
+  },
+  {
+    "establishment_code": "DLDEL2785268000",
+    "company_name": "Soni and Sons",
+    "state": "Karnataka",
+    "employee_count": 149,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-27"
+  },
+  {
+    "establishment_code": "KABAN1902294000",
+    "company_name": "Bassi, Yohannan and Parikh",
+    "state": "Madhya Pradesh",
+    "employee_count": 358,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-10"
+  },
+  {
+    "establishment_code": "KADEL1143117000",
+    "company_name": "Murty Ltd",
+    "state": "Telangana",
+    "employee_count": 366,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-11-17"
+  },
+  {
+    "establishment_code": "MHDEL8159697000",
+    "company_name": "Grover, Devan and Ravi",
+    "state": "Manipur",
+    "employee_count": 80,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-01-02"
+  },
+  {
+    "establishment_code": "DLBOM8471514000",
+    "company_name": "Arya-Shenoy",
+    "state": "Haryana",
+    "employee_count": 130,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-12"
+  },
+  {
+    "establishment_code": "KADEL1317434000",
+    "company_name": "Devi-Srinivasan",
+    "state": "Kerala",
+    "employee_count": 141,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-04-26"
+  },
+  {
+    "establishment_code": "KADEL3776432000",
+    "company_name": "Chanda Inc",
+    "state": "Mizoram",
+    "employee_count": 93,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-04"
+  },
+  {
+    "establishment_code": "DLBAN7216648000",
+    "company_name": "Naidu, Mahajan and Barman",
+    "state": "Assam",
+    "employee_count": 316,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-07"
+  },
+  {
+    "establishment_code": "DLBAN4153696000",
+    "company_name": "Barad-Ray",
+    "state": "West Bengal",
+    "employee_count": 350,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-08"
+  },
+  {
+    "establishment_code": "DLBOM2023201000",
+    "company_name": "Minhas, Hayre and Loke",
+    "state": "West Bengal",
+    "employee_count": 333,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-16"
+  },
+  {
+    "establishment_code": "DLBOM1378557000",
+    "company_name": "Apte Group",
+    "state": "Tamil Nadu",
+    "employee_count": 309,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-06-30"
+  },
+  {
+    "establishment_code": "KABOM4596710000",
+    "company_name": "Varughese Inc",
+    "state": "West Bengal",
+    "employee_count": 465,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-08"
+  },
+  {
+    "establishment_code": "DLBOM1440437000",
+    "company_name": "Ravi Inc",
+    "state": "Uttarakhand",
+    "employee_count": 192,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-08-30"
+  },
+  {
+    "establishment_code": "DLDEL5617824000",
+    "company_name": "Bhagat, Maharaj and Aurora",
+    "state": "Mizoram",
+    "employee_count": 438,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-20"
+  },
+  {
+    "establishment_code": "KABOM6533868000",
+    "company_name": "Sanghvi, Ramakrishnan and Kala",
+    "state": "Goa",
+    "employee_count": 262,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-02-02"
+  },
+  {
+    "establishment_code": "KABAN1151874000",
+    "company_name": "Pillai, Yadav and Dora",
+    "state": "Jharkhand",
+    "employee_count": 249,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-10-04"
+  },
+  {
+    "establishment_code": "KABAN8013063000",
+    "company_name": "Gole, Nadig and Dugar",
+    "state": "Odisha",
+    "employee_count": 374,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-03"
+  },
+  {
+    "establishment_code": "MHDEL7282310000",
+    "company_name": "Lanka-Tandon",
+    "state": "Bihar",
+    "employee_count": 407,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-06-05"
+  },
+  {
+    "establishment_code": "MHDEL8254346000",
+    "company_name": "Dugal Inc",
+    "state": "Sikkim",
+    "employee_count": 215,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-25"
+  },
+  {
+    "establishment_code": "DLBAN6236270000",
+    "company_name": "Luthra, Lala and Saini",
+    "state": "Arunachal Pradesh",
+    "employee_count": 482,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-10-04"
+  },
+  {
+    "establishment_code": "MHBAN9671725000",
+    "company_name": "Borah, Malhotra and Chad",
+    "state": "Sikkim",
+    "employee_count": 426,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-11-15"
+  },
+  {
+    "establishment_code": "DLBOM1456838000",
+    "company_name": "Narang, Pradhan and Mitra",
+    "state": "Punjab",
+    "employee_count": 429,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-11-09"
+  },
+  {
+    "establishment_code": "KADEL3624399000",
+    "company_name": "D\u2019Alia, Wagle and Swaminathan",
+    "state": "Uttarakhand",
+    "employee_count": 498,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-11-04"
+  },
+  {
+    "establishment_code": "DLBAN6973891000",
+    "company_name": "Pathak-Saraf",
+    "state": "Mizoram",
+    "employee_count": 375,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-09-30"
+  },
+  {
+    "establishment_code": "KADEL7738403000",
+    "company_name": "Mand PLC",
+    "state": "Jharkhand",
+    "employee_count": 464,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-05"
+  },
+  {
+    "establishment_code": "KABAN5275581000",
+    "company_name": "Sahni Inc",
+    "state": "Kerala",
+    "employee_count": 484,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-12-11"
+  },
+  {
+    "establishment_code": "MHBAN3997817000",
+    "company_name": "Bhatt, Sankaran and Khosla",
+    "state": "Mizoram",
+    "employee_count": 475,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2026-02-02"
+  },
+  {
+    "establishment_code": "KADEL8656104000",
+    "company_name": "Rai Group",
+    "state": "Nagaland",
+    "employee_count": 458,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-08-01"
+  },
+  {
+    "establishment_code": "MHBAN8141514000",
+    "company_name": "Mangal-Menon",
+    "state": "Chhattisgarh",
+    "employee_count": 302,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-14"
+  },
+  {
+    "establishment_code": "MHBAN5027860000",
+    "company_name": "Misra Ltd",
+    "state": "Manipur",
+    "employee_count": 25,
+    "compliance_status": "Defaulter",
+    "last_challan_date": "2025-10-20"
+  },
+  {
+    "establishment_code": "KABOM8141623000",
+    "company_name": "Kakar, Madan and Kibe",
+    "state": "Arunachal Pradesh",
+    "employee_count": 335,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2025-08-29"
+  },
+  {
+    "establishment_code": "MHBOM4078456000",
+    "company_name": "Ghose Inc",
+    "state": "Himachal Pradesh",
+    "employee_count": 438,
+    "compliance_status": "Non-Compliant",
+    "last_challan_date": "2026-08-02"
+  },
+  {
+    "establishment_code": "DLDEL6647041000",
+    "company_name": "Rau-Ganguly",
+    "state": "Karnataka",
+    "employee_count": 216,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-01"
+  },
+  {
+    "establishment_code": "DLBAN9655631000",
+    "company_name": "Narayan, Comar and Mand",
+    "state": "Telangana",
+    "employee_count": 432,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-09"
+  },
+  {
+    "establishment_code": "KABOM3021591000",
+    "company_name": "Mammen LLC",
+    "state": "Gujarat",
+    "employee_count": 13,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-08-14"
+  },
+  {
+    "establishment_code": "MHBOM9463486000",
+    "company_name": "Mohanty-Kohli",
+    "state": "Telangana",
+    "employee_count": 150,
+    "compliance_status": "Compliant",
+    "last_challan_date": "2026-07-28"
+  }
+]

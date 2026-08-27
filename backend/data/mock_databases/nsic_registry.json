@@ -1,0 +1,850 @@
+[
+  {
+    "nsic_number": "NSIC/54500",
+    "company_name": "Borde-Brahmbhatt",
+    "registration_date": "2025-04-02",
+    "valid_until": "2027-05-05",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/74870",
+    "company_name": "Lata, Sibal and Doctor",
+    "registration_date": "2024-03-10",
+    "valid_until": "2028-06-27",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/39865",
+    "company_name": "Lanka Inc",
+    "registration_date": "2024-03-27",
+    "valid_until": "2027-05-24",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/36411",
+    "company_name": "Oak, Barad and Kala",
+    "registration_date": "2026-01-27",
+    "valid_until": "2027-01-22",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/37662",
+    "company_name": "Gulati, Ravel and Dhar",
+    "registration_date": "2026-04-27",
+    "valid_until": "2028-12-11",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/49680",
+    "company_name": "Choudhury-Om",
+    "registration_date": "2026-01-29",
+    "valid_until": "2029-04-09",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/52517",
+    "company_name": "Chaudhry, Chaudhry and Chadha",
+    "registration_date": "2024-07-07",
+    "valid_until": "2028-09-16",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/53746",
+    "company_name": "Srinivas, Swamy and Bath",
+    "registration_date": "2026-08-06",
+    "valid_until": "2028-07-15",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/19602",
+    "company_name": "Bath Inc",
+    "registration_date": "2026-03-27",
+    "valid_until": "2028-06-01",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/12990",
+    "company_name": "Mann, Sur and Raghavan",
+    "registration_date": "2024-03-28",
+    "valid_until": "2027-02-05",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/79889",
+    "company_name": "Shere, Subramanian and Iyer",
+    "registration_date": "2026-07-24",
+    "valid_until": "2027-04-21",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/79348",
+    "company_name": "Char, Dada and Korpal",
+    "registration_date": "2024-01-06",
+    "valid_until": "2028-06-10",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/58280",
+    "company_name": "Vyas LLC",
+    "registration_date": "2025-04-25",
+    "valid_until": "2027-12-09",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/81532",
+    "company_name": "Talwar Group",
+    "registration_date": "2024-09-08",
+    "valid_until": "2027-01-17",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/27411",
+    "company_name": "Bali-Guha",
+    "registration_date": "2025-03-17",
+    "valid_until": "2029-02-13",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/98176",
+    "company_name": "Naik and Sons",
+    "registration_date": "2026-04-08",
+    "valid_until": "2029-04-04",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/47483",
+    "company_name": "Om-Munshi",
+    "registration_date": "2024-12-29",
+    "valid_until": "2028-04-04",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/57856",
+    "company_name": "Dasgupta, Narula and Vala",
+    "registration_date": "2025-08-24",
+    "valid_until": "2029-01-19",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/49490",
+    "company_name": "Dora, Mane and Kapadia",
+    "registration_date": "2026-03-18",
+    "valid_until": "2027-06-10",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/62222",
+    "company_name": "Patla, Brar and Tella",
+    "registration_date": "2026-05-28",
+    "valid_until": "2027-10-19",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/31828",
+    "company_name": "Ganesh Ltd",
+    "registration_date": "2024-12-01",
+    "valid_until": "2027-09-16",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/45657",
+    "company_name": "Bhandari, Dash and De",
+    "registration_date": "2023-12-12",
+    "valid_until": "2027-08-09",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/85676",
+    "company_name": "Savant Inc",
+    "registration_date": "2026-08-14",
+    "valid_until": "2027-12-19",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/35259",
+    "company_name": "Savant, Kakar and Wali",
+    "registration_date": "2025-07-03",
+    "valid_until": "2027-03-28",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/35898",
+    "company_name": "Samra Ltd",
+    "registration_date": "2024-02-22",
+    "valid_until": "2026-12-19",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/15007",
+    "company_name": "Tailor-Palan",
+    "registration_date": "2024-04-08",
+    "valid_until": "2028-08-11",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/37642",
+    "company_name": "Gade, Grewal and Radhakrishnan",
+    "registration_date": "2024-01-27",
+    "valid_until": "2028-06-18",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/71939",
+    "company_name": "Samra-Yadav",
+    "registration_date": "2023-12-26",
+    "valid_until": "2028-04-30",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/22382",
+    "company_name": "Borde, Lalla and Bajaj",
+    "registration_date": "2025-08-15",
+    "valid_until": "2029-04-02",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/93115",
+    "company_name": "Oommen, Swaminathan and Magar",
+    "registration_date": "2025-02-04",
+    "valid_until": "2027-01-10",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/99197",
+    "company_name": "Ray, Bora and Dhar",
+    "registration_date": "2026-05-04",
+    "valid_until": "2028-11-26",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/12627",
+    "company_name": "Dugar, Wali and Kara",
+    "registration_date": "2024-12-22",
+    "valid_until": "2028-05-09",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/32443",
+    "company_name": "Grewal PLC",
+    "registration_date": "2024-05-15",
+    "valid_until": "2026-12-07",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/97383",
+    "company_name": "Gole Inc",
+    "registration_date": "2025-06-19",
+    "valid_until": "2027-08-24",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/21185",
+    "company_name": "Mutti-Kibe",
+    "registration_date": "2023-12-16",
+    "valid_until": "2026-12-24",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/92012",
+    "company_name": "Gaba LLC",
+    "registration_date": "2024-08-26",
+    "valid_until": "2028-09-18",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/78826",
+    "company_name": "Mishra-Raman",
+    "registration_date": "2024-02-27",
+    "valid_until": "2029-03-16",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/88181",
+    "company_name": "Wagle and Sons",
+    "registration_date": "2025-04-13",
+    "valid_until": "2027-06-15",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/62819",
+    "company_name": "Sen PLC",
+    "registration_date": "2025-02-17",
+    "valid_until": "2028-07-18",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/63564",
+    "company_name": "Sharaf-Chand",
+    "registration_date": "2024-03-30",
+    "valid_until": "2028-03-27",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/99566",
+    "company_name": "Maharaj Ltd",
+    "registration_date": "2025-12-18",
+    "valid_until": "2028-03-26",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/10130",
+    "company_name": "Banerjee Inc",
+    "registration_date": "2024-05-14",
+    "valid_until": "2029-05-19",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/44440",
+    "company_name": "Vyas-Baria",
+    "registration_date": "2023-12-29",
+    "valid_until": "2029-04-08",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/81986",
+    "company_name": "Chatterjee Group",
+    "registration_date": "2026-01-24",
+    "valid_until": "2028-04-04",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/84545",
+    "company_name": "Sura, Raj and Bir",
+    "registration_date": "2024-05-25",
+    "valid_until": "2027-05-09",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/15443",
+    "company_name": "Patla LLC",
+    "registration_date": "2024-02-16",
+    "valid_until": "2027-10-05",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/11557",
+    "company_name": "Hans-Korpal",
+    "registration_date": "2025-10-03",
+    "valid_until": "2028-04-19",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/57820",
+    "company_name": "Mittal-Bath",
+    "registration_date": "2025-12-17",
+    "valid_until": "2028-10-31",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/70510",
+    "company_name": "Chandran and Sons",
+    "registration_date": "2025-08-11",
+    "valid_until": "2028-08-09",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/99186",
+    "company_name": "Wagle, Sane and Chand",
+    "registration_date": "2024-05-03",
+    "valid_until": "2027-07-20",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/33157",
+    "company_name": "Dey, Bajwa and Ranganathan",
+    "registration_date": "2024-10-27",
+    "valid_until": "2029-01-30",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/89826",
+    "company_name": "Bal LLC",
+    "registration_date": "2025-02-20",
+    "valid_until": "2027-01-19",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/58674",
+    "company_name": "Sankar and Sons",
+    "registration_date": "2024-10-04",
+    "valid_until": "2028-01-24",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/90687",
+    "company_name": "Devi, Bobal and Sankaran",
+    "registration_date": "2024-10-12",
+    "valid_until": "2027-12-01",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/53615",
+    "company_name": "Kanda LLC",
+    "registration_date": "2025-03-31",
+    "valid_until": "2029-01-25",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/63526",
+    "company_name": "Sachdeva-Bal",
+    "registration_date": "2026-03-04",
+    "valid_until": "2028-04-27",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/47396",
+    "company_name": "Rajagopal LLC",
+    "registration_date": "2025-07-29",
+    "valid_until": "2029-01-11",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/51445",
+    "company_name": "Natarajan-Raja",
+    "registration_date": "2024-03-04",
+    "valid_until": "2027-08-27",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/78874",
+    "company_name": "Krishnamurthy LLC",
+    "registration_date": "2025-03-29",
+    "valid_until": "2028-10-18",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/69993",
+    "company_name": "Mammen, Mall and Bandi",
+    "registration_date": "2025-06-20",
+    "valid_until": "2028-10-29",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/29584",
+    "company_name": "Chowdhury, Tak and Mangal",
+    "registration_date": "2026-03-30",
+    "valid_until": "2028-01-28",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/36985",
+    "company_name": "Chahal, Mander and Bose",
+    "registration_date": "2025-05-23",
+    "valid_until": "2027-05-31",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/15105",
+    "company_name": "Kade-Shere",
+    "registration_date": "2025-01-01",
+    "valid_until": "2027-12-31",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/67353",
+    "company_name": "Natt LLC",
+    "registration_date": "2026-03-25",
+    "valid_until": "2027-11-22",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/60099",
+    "company_name": "Bumb, Pandya and Parmar",
+    "registration_date": "2026-03-01",
+    "valid_until": "2027-07-30",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/81747",
+    "company_name": "Atwal, Bath and Sethi",
+    "registration_date": "2025-10-24",
+    "valid_until": "2028-08-30",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/40475",
+    "company_name": "Bains-Narain",
+    "registration_date": "2025-09-18",
+    "valid_until": "2027-06-09",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/77604",
+    "company_name": "Luthra, Tandon and Karan",
+    "registration_date": "2025-01-21",
+    "valid_until": "2029-04-14",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/35475",
+    "company_name": "Kapadia, Sood and Nigam",
+    "registration_date": "2024-07-27",
+    "valid_until": "2027-05-24",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/69562",
+    "company_name": "Bobal-Sridhar",
+    "registration_date": "2023-12-19",
+    "valid_until": "2028-03-06",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/71444",
+    "company_name": "Tara and Sons",
+    "registration_date": "2026-05-28",
+    "valid_until": "2027-03-15",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/42387",
+    "company_name": "Iyengar, Srivastava and Mammen",
+    "registration_date": "2025-10-25",
+    "valid_until": "2029-02-06",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/33695",
+    "company_name": "Soni and Sons",
+    "registration_date": "2025-12-19",
+    "valid_until": "2029-02-09",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/25265",
+    "company_name": "Sahni-Kapadia",
+    "registration_date": "2024-02-18",
+    "valid_until": "2027-04-17",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/20731",
+    "company_name": "Nath LLC",
+    "registration_date": "2024-07-09",
+    "valid_until": "2027-01-30",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/30808",
+    "company_name": "Murty Ltd",
+    "registration_date": "2025-06-24",
+    "valid_until": "2027-05-09",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/54526",
+    "company_name": "Grover, Devan and Ravi",
+    "registration_date": "2025-02-16",
+    "valid_until": "2027-07-09",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/24640",
+    "company_name": "Nayar PLC",
+    "registration_date": "2026-02-16",
+    "valid_until": "2027-11-17",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/34999",
+    "company_name": "Arya-Shenoy",
+    "registration_date": "2024-12-22",
+    "valid_until": "2028-12-18",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/15042",
+    "company_name": "Devan, Bajwa and Purohit",
+    "registration_date": "2026-04-03",
+    "valid_until": "2028-04-03",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/18230",
+    "company_name": "Chanda Inc",
+    "registration_date": "2025-03-28",
+    "valid_until": "2028-05-19",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/53056",
+    "company_name": "Barad-Ray",
+    "registration_date": "2025-07-07",
+    "valid_until": "2027-03-21",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/60009",
+    "company_name": "Varughese Inc",
+    "registration_date": "2024-03-24",
+    "valid_until": "2027-01-02",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/40144",
+    "company_name": "Comar-Gupta",
+    "registration_date": "2025-02-27",
+    "valid_until": "2028-08-22",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/83422",
+    "company_name": "Ravi Inc",
+    "registration_date": "2025-11-24",
+    "valid_until": "2029-04-03",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/61424",
+    "company_name": "Ghose-Chopra",
+    "registration_date": "2024-12-24",
+    "valid_until": "2027-05-09",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/75386",
+    "company_name": "Bhagat, Maharaj and Aurora",
+    "registration_date": "2025-08-13",
+    "valid_until": "2027-09-15",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/97109",
+    "company_name": "Acharya-Ghose",
+    "registration_date": "2025-07-13",
+    "valid_until": "2027-11-26",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/41746",
+    "company_name": "Pillai, Yadav and Dora",
+    "registration_date": "2025-05-19",
+    "valid_until": "2027-11-09",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/11404",
+    "company_name": "Bath-Subramaniam",
+    "registration_date": "2024-12-08",
+    "valid_until": "2027-08-23",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/67908",
+    "company_name": "Gara-Sachdev",
+    "registration_date": "2024-06-15",
+    "valid_until": "2028-04-23",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/11226",
+    "company_name": "Gole, Nadig and Dugar",
+    "registration_date": "2025-05-31",
+    "valid_until": "2028-07-02",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/40267",
+    "company_name": "Dugal Inc",
+    "registration_date": "2023-12-18",
+    "valid_until": "2028-08-21",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/14875",
+    "company_name": "Dass Group",
+    "registration_date": "2024-01-13",
+    "valid_until": "2028-10-22",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/67085",
+    "company_name": "Dayal Ltd",
+    "registration_date": "2025-11-20",
+    "valid_until": "2027-11-12",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/17496",
+    "company_name": "Borah, Malhotra and Chad",
+    "registration_date": "2025-12-13",
+    "valid_until": "2027-07-08",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/42697",
+    "company_name": "Narang, Pradhan and Mitra",
+    "registration_date": "2023-12-03",
+    "valid_until": "2027-08-12",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/47668",
+    "company_name": "Contractor-Gulati",
+    "registration_date": "2024-08-27",
+    "valid_until": "2028-02-20",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/98105",
+    "company_name": "Sur, Sami and Chopra",
+    "registration_date": "2026-02-22",
+    "valid_until": "2028-02-05",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/56912",
+    "company_name": "Sawhney, Radhakrishnan and Nagar",
+    "registration_date": "2024-01-29",
+    "valid_until": "2028-04-22",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/98910",
+    "company_name": "Sahni Inc",
+    "registration_date": "2025-09-15",
+    "valid_until": "2027-10-24",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/90326",
+    "company_name": "Bhatt, Sankaran and Khosla",
+    "registration_date": "2024-02-21",
+    "valid_until": "2026-12-30",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/49169",
+    "company_name": "Setty PLC",
+    "registration_date": "2026-01-01",
+    "valid_until": "2028-07-05",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/48112",
+    "company_name": "Misra Ltd",
+    "registration_date": "2023-12-07",
+    "valid_until": "2027-07-10",
+    "category": "Micro",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/10902",
+    "company_name": "Kakar, Madan and Kibe",
+    "registration_date": "2024-06-13",
+    "valid_until": "2029-05-14",
+    "category": "Small",
+    "status": "Active"
+  },
+  {
+    "nsic_number": "NSIC/40255",
+    "company_name": "Kari, Kashyap and Tata",
+    "registration_date": "2024-10-24",
+    "valid_until": "2027-12-03",
+    "category": "Micro",
+    "status": "Active"
+  }
+]

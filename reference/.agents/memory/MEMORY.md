@@ -1,0 +1,1 @@
+- [OpenAPI numeric compatibility](openapi-numeric-compatibility.md) — this workspace's generated Zod client currently expects numeric OpenAPI fields rather than integer schemas.

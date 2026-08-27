@@ -1,0 +1,2402 @@
+[
+  {
+    "cin": "U41542DL2024PTC882423",
+    "company_name": "Gour-Bir",
+    "registration_date": "2019-07-01",
+    "status": "Active",
+    "authorized_capital": 4226857,
+    "paid_up_capital": 3838770,
+    "directors": [
+      "Vrinda Goda",
+      "Harrison Tara"
+    ]
+  },
+  {
+    "cin": "U77181MH2007PTC142580",
+    "company_name": "Borde-Brahmbhatt",
+    "registration_date": "2021-04-15",
+    "status": "Active",
+    "authorized_capital": 2008946,
+    "paid_up_capital": 2462739,
+    "directors": [
+      "Oni Bali",
+      "Ekantika Chawla"
+    ]
+  },
+  {
+    "cin": "U19532MH2006PTC131295",
+    "company_name": "Lata, Sibal and Doctor",
+    "registration_date": "2022-01-16",
+    "status": "Active",
+    "authorized_capital": 1658588,
+    "paid_up_capital": 3249172,
+    "directors": [
+      "William Sur",
+      "Pallavi Yogi"
+    ]
+  },
+  {
+    "cin": "U84935KA2008PTC764991",
+    "company_name": "Gandhi-Kakar",
+    "registration_date": "2019-02-19",
+    "status": "Active",
+    "authorized_capital": 3643193,
+    "paid_up_capital": 1803789,
+    "directors": [
+      "Dipta Dhaliwal",
+      "Anusha Sekhon"
+    ]
+  },
+  {
+    "cin": "U46910MH2010PTC440265",
+    "company_name": "Natarajan-Gera",
+    "registration_date": "2019-08-30",
+    "status": "Active",
+    "authorized_capital": 3620479,
+    "paid_up_capital": 2488779,
+    "directors": [
+      "Tanveer Sheth",
+      "Jeevika Pall"
+    ]
+  },
+  {
+    "cin": "U91684KA2009PTC830838",
+    "company_name": "Lanka Inc",
+    "registration_date": "2018-11-17",
+    "status": "Active",
+    "authorized_capital": 1272986,
+    "paid_up_capital": 1240807,
+    "directors": [
+      "Ekantika Nori",
+      "Matthew Borra"
+    ]
+  },
+  {
+    "cin": "U61907KA2017PTC768902",
+    "company_name": "Oak, Barad and Kala",
+    "registration_date": "2026-02-28",
+    "status": "Active",
+    "authorized_capital": 4275514,
+    "paid_up_capital": 568863,
+    "directors": [
+      "Triya Raju",
+      "Frado Ramanathan"
+    ]
+  },
+  {
+    "cin": "U53603DL2000PTC346129",
+    "company_name": "Gulati, Ravel and Dhar",
+    "registration_date": "2018-12-23",
+    "status": "Active",
+    "authorized_capital": 1585118,
+    "paid_up_capital": 1836715,
+    "directors": [
+      "Amrita Thaman",
+      "Harish Vala"
+    ]
+  },
+  {
+    "cin": "U54268MH2003PTC526166",
+    "company_name": "Choudhury-Om",
+    "registration_date": "2025-07-15",
+    "status": "Active",
+    "authorized_capital": 676449,
+    "paid_up_capital": 139720,
+    "directors": [
+      "Sneha Chad",
+      "Triya Hayre"
+    ]
+  },
+  {
+    "cin": "U23520KA2003PTC963026",
+    "company_name": "Sarma-Mani",
+    "registration_date": "2023-06-03",
+    "status": "Active",
+    "authorized_capital": 3481208,
+    "paid_up_capital": 1809196,
+    "directors": [
+      "Urvashi Contractor",
+      "Wakeeta Savant"
+    ]
+  },
+  {
+    "cin": "U66727KA2010PTC791015",
+    "company_name": "Oza, Jhaveri and Thakkar",
+    "registration_date": "2022-07-03",
+    "status": "Active",
+    "authorized_capital": 1617516,
+    "paid_up_capital": 1669119,
+    "directors": [
+      "Gaurang Kapadia",
+      "Sai Iyengar"
+    ]
+  },
+  {
+    "cin": "U66664KA2018PTC139300",
+    "company_name": "Vyas LLC",
+    "registration_date": "2020-07-26",
+    "status": "Active",
+    "authorized_capital": 2398761,
+    "paid_up_capital": 2058811,
+    "directors": [
+      "Darsh Dey",
+      "Wakeeta Purohit"
+    ]
+  },
+  {
+    "cin": "U40371DL2013PTC685538",
+    "company_name": "Chaudhry, Chaudhry and Chadha",
+    "registration_date": "2020-08-21",
+    "status": "Active",
+    "authorized_capital": 4290489,
+    "paid_up_capital": 4268390,
+    "directors": [
+      "Bhavani Reddy",
+      "Ishanvi Vala"
+    ]
+  },
+  {
+    "cin": "U83647KA2003PTC301158",
+    "company_name": "Srinivas, Swamy and Bath",
+    "registration_date": "2024-06-08",
+    "status": "Active",
+    "authorized_capital": 2523142,
+    "paid_up_capital": 387156,
+    "directors": [
+      "Vivaan Baral",
+      "Anmol Kamdar"
+    ]
+  },
+  {
+    "cin": "U14055KA2016PTC174596",
+    "company_name": "Bath Inc",
+    "registration_date": "2023-01-09",
+    "status": "Active",
+    "authorized_capital": 4180055,
+    "paid_up_capital": 3714507,
+    "directors": [
+      "Max Bhat",
+      "Jatin Aurora"
+    ]
+  },
+  {
+    "cin": "U50717KA2012PTC638705",
+    "company_name": "Lala Inc",
+    "registration_date": "2020-01-04",
+    "status": "Active",
+    "authorized_capital": 4609570,
+    "paid_up_capital": 4247588,
+    "directors": [
+      "Theodore Nath",
+      "Upkaar Thakkar"
+    ]
+  },
+  {
+    "cin": "U52228KA2018PTC953337",
+    "company_name": "Mann, Sur and Raghavan",
+    "registration_date": "2021-05-02",
+    "status": "Active",
+    "authorized_capital": 373229,
+    "paid_up_capital": 3294575,
+    "directors": [
+      "Gagan Bhakta",
+      "Ati Pandya"
+    ]
+  },
+  {
+    "cin": "U45396MH2024PTC283747",
+    "company_name": "Shere, Subramanian and Iyer",
+    "registration_date": "2025-02-03",
+    "status": "Struck Off",
+    "authorized_capital": 3333885,
+    "paid_up_capital": 754815,
+    "directors": [
+      "Zehaan Sanghvi",
+      "Nathan Soni"
+    ]
+  },
+  {
+    "cin": "U85397DL2002PTC899542",
+    "company_name": "Radhakrishnan-Naik",
+    "registration_date": "2019-09-09",
+    "status": "Active",
+    "authorized_capital": 2800045,
+    "paid_up_capital": 2869686,
+    "directors": [
+      "Darsh Vasa",
+      "Arunima Rau"
+    ]
+  },
+  {
+    "cin": "U22055DL2009PTC721596",
+    "company_name": "Bora PLC",
+    "registration_date": "2019-07-09",
+    "status": "Active",
+    "authorized_capital": 1072411,
+    "paid_up_capital": 4262844,
+    "directors": [
+      "Aarna Nayar",
+      "Udyati Tara"
+    ]
+  },
+  {
+    "cin": "U54331DL2003PTC490753",
+    "company_name": "Chahal, Chhabra and Lall",
+    "registration_date": "2026-03-31",
+    "status": "Active",
+    "authorized_capital": 4509320,
+    "paid_up_capital": 4947528,
+    "directors": [
+      "Hiral Guha",
+      "Nathan Char"
+    ]
+  },
+  {
+    "cin": "U66323KA2010PTC622309",
+    "company_name": "Char, Dada and Korpal",
+    "registration_date": "2020-01-07",
+    "status": "Active",
+    "authorized_capital": 4427914,
+    "paid_up_capital": 3598390,
+    "directors": [
+      "Balvan Deshmukh",
+      "Ekansh Basak"
+    ]
+  },
+  {
+    "cin": "U43101MH2022PTC253195",
+    "company_name": "Vyas LLC",
+    "registration_date": "2018-06-26",
+    "status": "Active",
+    "authorized_capital": 3060938,
+    "paid_up_capital": 2089421,
+    "directors": [
+      "Tarak Borah",
+      "Gaurangi Naik"
+    ]
+  },
+  {
+    "cin": "U62675DL2015PTC164594",
+    "company_name": "Talwar Group",
+    "registration_date": "2020-08-14",
+    "status": "Active",
+    "authorized_capital": 3323434,
+    "paid_up_capital": 4503204,
+    "directors": [
+      "Madhav Bhakta",
+      "Oeshi Sarraf"
+    ]
+  },
+  {
+    "cin": "U19291MH2022PTC799867",
+    "company_name": "Bali-Guha",
+    "registration_date": "2019-08-27",
+    "status": "Active",
+    "authorized_capital": 400092,
+    "paid_up_capital": 4357908,
+    "directors": [
+      "Ridhi Sant",
+      "Kavya Trivedi"
+    ]
+  },
+  {
+    "cin": "U67666KA2013PTC147524",
+    "company_name": "Koshy, Dass and Varkey",
+    "registration_date": "2024-03-06",
+    "status": "Active",
+    "authorized_capital": 1405094,
+    "paid_up_capital": 3439972,
+    "directors": [
+      "Meghana Nagi",
+      "Abha Mukhopadhyay"
+    ]
+  },
+  {
+    "cin": "U49852MH2003PTC377757",
+    "company_name": "Kalita, Handa and Divan",
+    "registration_date": "2025-09-18",
+    "status": "Active",
+    "authorized_capital": 3875010,
+    "paid_up_capital": 504881,
+    "directors": [
+      "Warhi Sahota",
+      "Yashica Goel"
+    ]
+  },
+  {
+    "cin": "U55554KA2018PTC610229",
+    "company_name": "Naik and Sons",
+    "registration_date": "2023-10-23",
+    "status": "Active",
+    "authorized_capital": 2361166,
+    "paid_up_capital": 2899608,
+    "directors": [
+      "Janani Kashyap",
+      "Dalaja Sibal"
+    ]
+  },
+  {
+    "cin": "U67343KA2023PTC220510",
+    "company_name": "Mannan-Sundaram",
+    "registration_date": "2022-02-17",
+    "status": "Active",
+    "authorized_capital": 3211493,
+    "paid_up_capital": 3459959,
+    "directors": [
+      "Dayamai Mukhopadhyay",
+      "Hiral Bali"
+    ]
+  },
+  {
+    "cin": "U67318DL2023PTC943028",
+    "company_name": "Om-Munshi",
+    "registration_date": "2025-01-31",
+    "status": "Active",
+    "authorized_capital": 3484759,
+    "paid_up_capital": 522926,
+    "directors": [
+      "Tanay Nazareth",
+      "Pushti Zacharia"
+    ]
+  },
+  {
+    "cin": "U49286MH2016PTC105067",
+    "company_name": "Dasgupta, Narula and Vala",
+    "registration_date": "2021-01-05",
+    "status": "Active",
+    "authorized_capital": 710523,
+    "paid_up_capital": 2423219,
+    "directors": [
+      "Chandresh Menon",
+      "Chaman Nagi"
+    ]
+  },
+  {
+    "cin": "U61096DL2017PTC816361",
+    "company_name": "Dora, Mane and Kapadia",
+    "registration_date": "2021-05-14",
+    "status": "Active",
+    "authorized_capital": 1732003,
+    "paid_up_capital": 1317205,
+    "directors": [
+      "Andrew Wali",
+      "Warinder Kala"
+    ]
+  },
+  {
+    "cin": "U17808DL2022PTC667317",
+    "company_name": "Divan-Dhar",
+    "registration_date": "2023-10-30",
+    "status": "Active",
+    "authorized_capital": 3905968,
+    "paid_up_capital": 259331,
+    "directors": [
+      "Azaan Panchal",
+      "Edhitha Handa"
+    ]
+  },
+  {
+    "cin": "U98902DL2016PTC429401",
+    "company_name": "Sama-Srivastava",
+    "registration_date": "2026-05-07",
+    "status": "Struck Off",
+    "authorized_capital": 1268724,
+    "paid_up_capital": 3184018,
+    "directors": [
+      "Lakshmi Arya",
+      "Ikbal Bora"
+    ]
+  },
+  {
+    "cin": "U79844KA2011PTC583575",
+    "company_name": "Ben-Sabharwal",
+    "registration_date": "2021-09-25",
+    "status": "Active",
+    "authorized_capital": 3418686,
+    "paid_up_capital": 878622,
+    "directors": [
+      "Harish Venkataraman",
+      "Hemang Wagle"
+    ]
+  },
+  {
+    "cin": "U54736KA2008PTC378363",
+    "company_name": "Patla, Brar and Tella",
+    "registration_date": "2019-06-23",
+    "status": "Active",
+    "authorized_capital": 3614844,
+    "paid_up_capital": 1726047,
+    "directors": [
+      "Jagat Narayan",
+      "Dipta Sane"
+    ]
+  },
+  {
+    "cin": "U79792DL2017PTC476079",
+    "company_name": "Ganesh Ltd",
+    "registration_date": "2021-04-08",
+    "status": "Active",
+    "authorized_capital": 1110684,
+    "paid_up_capital": 3907084,
+    "directors": [
+      "Ekbal Malhotra",
+      "Sathvik Shere"
+    ]
+  },
+  {
+    "cin": "U56269DL2017PTC808635",
+    "company_name": "Bhandari, Dash and De",
+    "registration_date": "2025-09-05",
+    "status": "Active",
+    "authorized_capital": 3321418,
+    "paid_up_capital": 4395060,
+    "directors": [
+      "Ati Konda",
+      "Nitesh Sarma"
+    ]
+  },
+  {
+    "cin": "U57080KA2008PTC120721",
+    "company_name": "Savant Inc",
+    "registration_date": "2021-12-15",
+    "status": "Active",
+    "authorized_capital": 2962746,
+    "paid_up_capital": 3033672,
+    "directors": [
+      "Akshay Gokhale",
+      "Urishilla Jain"
+    ]
+  },
+  {
+    "cin": "U55354DL2012PTC956347",
+    "company_name": "Sarna LLC",
+    "registration_date": "2022-06-10",
+    "status": "Active",
+    "authorized_capital": 2349194,
+    "paid_up_capital": 3271577,
+    "directors": [
+      "Diya Narain",
+      "Widisha Gokhale"
+    ]
+  },
+  {
+    "cin": "U59545MH2008PTC596367",
+    "company_name": "Savant, Kakar and Wali",
+    "registration_date": "2019-08-18",
+    "status": "Active",
+    "authorized_capital": 2382408,
+    "paid_up_capital": 3464902,
+    "directors": [
+      "Ubika Badal",
+      "Kavya Ram"
+    ]
+  },
+  {
+    "cin": "U53573MH2019PTC786114",
+    "company_name": "Soni, Pau and Nath",
+    "registration_date": "2022-07-17",
+    "status": "Active",
+    "authorized_capital": 117187,
+    "paid_up_capital": 4737340,
+    "directors": [
+      "Udarsh Kohli",
+      "Sarthak Chhabra"
+    ]
+  },
+  {
+    "cin": "U76594KA2025PTC793470",
+    "company_name": "Sharaf, Rao and Pradhan",
+    "registration_date": "2019-01-18",
+    "status": "Active",
+    "authorized_capital": 2005331,
+    "paid_up_capital": 950947,
+    "directors": [
+      "Ikshita Rau",
+      "Diya Hora"
+    ]
+  },
+  {
+    "cin": "U13708DL2010PTC797559",
+    "company_name": "Pandit PLC",
+    "registration_date": "2022-12-15",
+    "status": "Active",
+    "authorized_capital": 287030,
+    "paid_up_capital": 136291,
+    "directors": [
+      "Riya Yadav",
+      "Krisha Mukhopadhyay"
+    ]
+  },
+  {
+    "cin": "U44972KA2009PTC955057",
+    "company_name": "Baral-Saini",
+    "registration_date": "2025-07-23",
+    "status": "Active",
+    "authorized_capital": 3497413,
+    "paid_up_capital": 562744,
+    "directors": [
+      "Oni Rege",
+      "Samar Sule"
+    ]
+  },
+  {
+    "cin": "U96333MH2022PTC399100",
+    "company_name": "Samra Ltd",
+    "registration_date": "2024-02-15",
+    "status": "Active",
+    "authorized_capital": 1444147,
+    "paid_up_capital": 1085225,
+    "directors": [
+      "Logan De",
+      "Abha Viswanathan"
+    ]
+  },
+  {
+    "cin": "U94168DL2005PTC142473",
+    "company_name": "Som-Balay",
+    "registration_date": "2021-08-06",
+    "status": "Active",
+    "authorized_capital": 4638173,
+    "paid_up_capital": 3840506,
+    "directors": [
+      "Janani Baral",
+      "Netra Mane"
+    ]
+  },
+  {
+    "cin": "U85904DL2005PTC283947",
+    "company_name": "Tailor-Palan",
+    "registration_date": "2020-03-31",
+    "status": "Active",
+    "authorized_capital": 4416424,
+    "paid_up_capital": 2282563,
+    "directors": [
+      "Pooja Baral",
+      "Barkha Kapoor"
+    ]
+  },
+  {
+    "cin": "U61948KA2024PTC756948",
+    "company_name": "Mitter-Wadhwa",
+    "registration_date": "2026-01-25",
+    "status": "Active",
+    "authorized_capital": 2395428,
+    "paid_up_capital": 3833246,
+    "directors": [
+      "Manbir Cheema",
+      "Orinder Cheema"
+    ]
+  },
+  {
+    "cin": "U30511DL2012PTC786493",
+    "company_name": "Gade, Grewal and Radhakrishnan",
+    "registration_date": "2023-06-03",
+    "status": "Active",
+    "authorized_capital": 2553697,
+    "paid_up_capital": 1783824,
+    "directors": [
+      "Lucky Setty",
+      "Daksh Hora"
+    ]
+  },
+  {
+    "cin": "U60157KA2008PTC267427",
+    "company_name": "Samra-Yadav",
+    "registration_date": "2021-12-10",
+    "status": "Active",
+    "authorized_capital": 1866158,
+    "paid_up_capital": 4379007,
+    "directors": [
+      "Widisha Barman",
+      "Madhavi Din"
+    ]
+  },
+  {
+    "cin": "U62040KA2013PTC224889",
+    "company_name": "Borde, Lalla and Bajaj",
+    "registration_date": "2019-10-12",
+    "status": "Active",
+    "authorized_capital": 4244133,
+    "paid_up_capital": 1981156,
+    "directors": [
+      "Mekhala Mohan",
+      "Yahvi Subramaniam"
+    ]
+  },
+  {
+    "cin": "U46548MH2021PTC102868",
+    "company_name": "Oommen, Swaminathan and Magar",
+    "registration_date": "2019-01-19",
+    "status": "Active",
+    "authorized_capital": 4124499,
+    "paid_up_capital": 809826,
+    "directors": [
+      "Diya Deshmukh",
+      "Chandran Lata"
+    ]
+  },
+  {
+    "cin": "U18865KA2004PTC714323",
+    "company_name": "Contractor and Sons",
+    "registration_date": "2024-01-07",
+    "status": "Active",
+    "authorized_capital": 2200112,
+    "paid_up_capital": 1511124,
+    "directors": [
+      "Yagnesh Toor",
+      "Veer Chakrabarti"
+    ]
+  },
+  {
+    "cin": "U17450MH2024PTC840758",
+    "company_name": "Sachar Inc",
+    "registration_date": "2021-06-07",
+    "status": "Active",
+    "authorized_capital": 3991422,
+    "paid_up_capital": 1240826,
+    "directors": [
+      "Abhiram Bhatt",
+      "Pallavi Sarna"
+    ]
+  },
+  {
+    "cin": "U46557DL2006PTC297205",
+    "company_name": "Ray, Bora and Dhar",
+    "registration_date": "2021-02-12",
+    "status": "Active",
+    "authorized_capital": 4637929,
+    "paid_up_capital": 1345352,
+    "directors": [
+      "Warhi Chaudhari",
+      "Ekta Bhatnagar"
+    ]
+  },
+  {
+    "cin": "U83611KA2009PTC918110",
+    "company_name": "Batra, Kaul and Majumdar",
+    "registration_date": "2026-03-31",
+    "status": "Active",
+    "authorized_capital": 4273176,
+    "paid_up_capital": 2992702,
+    "directors": [
+      "Siya Chaudry",
+      "Chandani Sankaran"
+    ]
+  },
+  {
+    "cin": "U19841DL2008PTC941537",
+    "company_name": "Dugar, Wali and Kara",
+    "registration_date": "2025-07-15",
+    "status": "Active",
+    "authorized_capital": 2077415,
+    "paid_up_capital": 4626892,
+    "directors": [
+      "Thomas Dalal",
+      "Onveer Rout"
+    ]
+  },
+  {
+    "cin": "U55591MH2024PTC551793",
+    "company_name": "Grewal PLC",
+    "registration_date": "2019-08-07",
+    "status": "Active",
+    "authorized_capital": 3790479,
+    "paid_up_capital": 4748387,
+    "directors": [
+      "Hardik Nayak",
+      "Triya Wagle"
+    ]
+  },
+  {
+    "cin": "U14080KA2010PTC828034",
+    "company_name": "Bumb-Bal",
+    "registration_date": "2023-12-20",
+    "status": "Active",
+    "authorized_capital": 1781210,
+    "paid_up_capital": 778914,
+    "directors": [
+      "Yoshita Swaminathan",
+      "Radhika Tak"
+    ]
+  },
+  {
+    "cin": "U79453MH2014PTC805732",
+    "company_name": "Bora, Ramanathan and Chauhan",
+    "registration_date": "2025-03-21",
+    "status": "Active",
+    "authorized_capital": 3821515,
+    "paid_up_capital": 2659700,
+    "directors": [
+      "Januja Dora",
+      "Ikshita Sheth"
+    ]
+  },
+  {
+    "cin": "U61579KA2003PTC110468",
+    "company_name": "Naik PLC",
+    "registration_date": "2025-03-15",
+    "status": "Active",
+    "authorized_capital": 4316080,
+    "paid_up_capital": 498863,
+    "directors": [
+      "Siya Nigam",
+      "Jeet Balan"
+    ]
+  },
+  {
+    "cin": "U63990KA2016PTC442185",
+    "company_name": "Gokhale-Sachdeva",
+    "registration_date": "2024-07-12",
+    "status": "Active",
+    "authorized_capital": 2386412,
+    "paid_up_capital": 4291348,
+    "directors": [
+      "Urvi Deo",
+      "Radhika Vohra"
+    ]
+  },
+  {
+    "cin": "U45514KA2023PTC864362",
+    "company_name": "Gole Inc",
+    "registration_date": "2022-01-09",
+    "status": "Active",
+    "authorized_capital": 3811234,
+    "paid_up_capital": 3529698,
+    "directors": [
+      "Abhiram Salvi",
+      "Rajata Grover"
+    ]
+  },
+  {
+    "cin": "U23400MH2018PTC496667",
+    "company_name": "Mutti-Kibe",
+    "registration_date": "2021-04-20",
+    "status": "Active",
+    "authorized_capital": 4577806,
+    "paid_up_capital": 2773494,
+    "directors": [
+      "Abha Zacharia",
+      "Laksh Kata"
+    ]
+  },
+  {
+    "cin": "U47238MH2008PTC941484",
+    "company_name": "Solanki PLC",
+    "registration_date": "2019-11-17",
+    "status": "Active",
+    "authorized_capital": 1041993,
+    "paid_up_capital": 2959450,
+    "directors": [
+      "Nachiket Chowdhury",
+      "Daksh Gour"
+    ]
+  },
+  {
+    "cin": "U51314MH2010PTC923060",
+    "company_name": "Shukla Ltd",
+    "registration_date": "2026-04-01",
+    "status": "Active",
+    "authorized_capital": 1218936,
+    "paid_up_capital": 2599200,
+    "directors": [
+      "Anay Dash",
+      "Advika Zachariah"
+    ]
+  },
+  {
+    "cin": "U51886MH2016PTC167810",
+    "company_name": "Nagi Inc",
+    "registration_date": "2025-06-17",
+    "status": "Active",
+    "authorized_capital": 4499398,
+    "paid_up_capital": 531024,
+    "directors": [
+      "Niharika Srinivasan",
+      "Balvan Acharya"
+    ]
+  },
+  {
+    "cin": "U96737MH2013PTC552896",
+    "company_name": "Butala Inc",
+    "registration_date": "2026-08-18",
+    "status": "Active",
+    "authorized_capital": 3530944,
+    "paid_up_capital": 3987654,
+    "directors": [
+      "Tanvi Bawa",
+      "Logan Sandhu"
+    ]
+  },
+  {
+    "cin": "U24932MH2021PTC695853",
+    "company_name": "Gaba LLC",
+    "registration_date": "2026-05-08",
+    "status": "Active",
+    "authorized_capital": 3275429,
+    "paid_up_capital": 3803199,
+    "directors": [
+      "Harshil Shankar",
+      "Omaja Chana"
+    ]
+  },
+  {
+    "cin": "U20025MH2001PTC686813",
+    "company_name": "Dey Ltd",
+    "registration_date": "2025-09-02",
+    "status": "Active",
+    "authorized_capital": 3265553,
+    "paid_up_capital": 400309,
+    "directors": [
+      "Daniel Pai",
+      "Bhavna Oza"
+    ]
+  },
+  {
+    "cin": "U51940DL2008PTC899745",
+    "company_name": "Mishra-Raman",
+    "registration_date": "2020-10-05",
+    "status": "Active",
+    "authorized_capital": 2295220,
+    "paid_up_capital": 1076716,
+    "directors": [
+      "Sara Sidhu",
+      "Eta Bhavsar"
+    ]
+  },
+  {
+    "cin": "U88803KA2003PTC630136",
+    "company_name": "Wagle and Sons",
+    "registration_date": "2023-06-24",
+    "status": "Active",
+    "authorized_capital": 2971557,
+    "paid_up_capital": 4298145,
+    "directors": [
+      "Vinaya Ravi",
+      "Alexander Oza"
+    ]
+  },
+  {
+    "cin": "U43022DL2002PTC669209",
+    "company_name": "Sen PLC",
+    "registration_date": "2023-03-03",
+    "status": "Active",
+    "authorized_capital": 4433833,
+    "paid_up_capital": 2011505,
+    "directors": [
+      "Panini Cherian",
+      "Yoshita Borde"
+    ]
+  },
+  {
+    "cin": "U36464DL2011PTC216446",
+    "company_name": "Choudhary Inc",
+    "registration_date": "2024-10-07",
+    "status": "Active",
+    "authorized_capital": 347311,
+    "paid_up_capital": 3797772,
+    "directors": [
+      "Noah Pal",
+      "Krishna Bal"
+    ]
+  },
+  {
+    "cin": "U39224DL2024PTC908417",
+    "company_name": "Nair, Buch and Loyal",
+    "registration_date": "2018-12-20",
+    "status": "Active",
+    "authorized_capital": 2499578,
+    "paid_up_capital": 3726651,
+    "directors": [
+      "Avni Mahajan",
+      "Ekiya Mital"
+    ]
+  },
+  {
+    "cin": "U71774MH2015PTC979781",
+    "company_name": "Shroff, Mitter and Halder",
+    "registration_date": "2020-02-15",
+    "status": "Active",
+    "authorized_capital": 354961,
+    "paid_up_capital": 731699,
+    "directors": [
+      "Bimala Ahluwalia",
+      "Adya Swaminathan"
+    ]
+  },
+  {
+    "cin": "U28599KA2024PTC990845",
+    "company_name": "Bala, Balasubramanian and Garde",
+    "registration_date": "2024-07-21",
+    "status": "Active",
+    "authorized_capital": 1091773,
+    "paid_up_capital": 2842535,
+    "directors": [
+      "Jack Mannan",
+      "Jasmit Mandal"
+    ]
+  },
+  {
+    "cin": "U12122DL2006PTC879123",
+    "company_name": "Sharaf-Chand",
+    "registration_date": "2021-07-18",
+    "status": "Active",
+    "authorized_capital": 2094600,
+    "paid_up_capital": 384501,
+    "directors": [
+      "Hemangini Cherian",
+      "Yatan Dash"
+    ]
+  },
+  {
+    "cin": "U36459KA2001PTC772826",
+    "company_name": "Maharaj Ltd",
+    "registration_date": "2023-02-20",
+    "status": "Active",
+    "authorized_capital": 3996225,
+    "paid_up_capital": 187486,
+    "directors": [
+      "Baljiwan Sethi",
+      "Ekaja Desai"
+    ]
+  },
+  {
+    "cin": "U85651KA2006PTC877609",
+    "company_name": "Sarma PLC",
+    "registration_date": "2019-03-08",
+    "status": "Active",
+    "authorized_capital": 2342021,
+    "paid_up_capital": 3520075,
+    "directors": [
+      "Neelima Kala",
+      "Wazir Natt"
+    ]
+  },
+  {
+    "cin": "U32806KA2000PTC374913",
+    "company_name": "Chana, Saxena and Jain",
+    "registration_date": "2019-08-07",
+    "status": "Active",
+    "authorized_capital": 4896392,
+    "paid_up_capital": 1968476,
+    "directors": [
+      "Ekapad Balakrishnan",
+      "Banjeet Mani"
+    ]
+  },
+  {
+    "cin": "U89546DL2025PTC605958",
+    "company_name": "Banerjee Inc",
+    "registration_date": "2023-04-29",
+    "status": "Active",
+    "authorized_capital": 2356367,
+    "paid_up_capital": 3833698,
+    "directors": [
+      "Girik Sunder",
+      "Naveen Toor"
+    ]
+  },
+  {
+    "cin": "U12830MH2020PTC235801",
+    "company_name": "Sani, Wagle and Setty",
+    "registration_date": "2019-07-07",
+    "status": "Active",
+    "authorized_capital": 1323333,
+    "paid_up_capital": 891290,
+    "directors": [
+      "Ojas Suresh",
+      "Manya Bumb"
+    ]
+  },
+  {
+    "cin": "U38359KA2003PTC865616",
+    "company_name": "Oza Ltd",
+    "registration_date": "2025-04-07",
+    "status": "Active",
+    "authorized_capital": 3854348,
+    "paid_up_capital": 1858976,
+    "directors": [
+      "Ekaraj Mutti",
+      "Mitesh Sane"
+    ]
+  },
+  {
+    "cin": "U54158KA2018PTC424240",
+    "company_name": "Magar, Bhatnagar and Bahl",
+    "registration_date": "2026-07-21",
+    "status": "Active",
+    "authorized_capital": 3066803,
+    "paid_up_capital": 452637,
+    "directors": [
+      "Yashvi Pau",
+      "Wyatt Basu"
+    ]
+  },
+  {
+    "cin": "U39511DL2011PTC545977",
+    "company_name": "Vyas-Baria",
+    "registration_date": "2019-12-07",
+    "status": "Active",
+    "authorized_capital": 1704627,
+    "paid_up_capital": 1022929,
+    "directors": [
+      "Manbir Walla",
+      "Charita Bajaj"
+    ]
+  },
+  {
+    "cin": "U62415DL2014PTC838984",
+    "company_name": "Chatterjee Group",
+    "registration_date": "2022-05-18",
+    "status": "Active",
+    "authorized_capital": 4797710,
+    "paid_up_capital": 3388157,
+    "directors": [
+      "Tamanna More",
+      "Mugdha Manne"
+    ]
+  },
+  {
+    "cin": "U51350KA2021PTC771472",
+    "company_name": "Sura, Raj and Bir",
+    "registration_date": "2021-10-17",
+    "status": "Active",
+    "authorized_capital": 2691391,
+    "paid_up_capital": 2836657,
+    "directors": [
+      "Zarna Ganesan",
+      "Ekapad Balasubramanian"
+    ]
+  },
+  {
+    "cin": "U96229DL2004PTC894736",
+    "company_name": "Samra-Tak",
+    "registration_date": "2021-08-07",
+    "status": "Active",
+    "authorized_capital": 1201914,
+    "paid_up_capital": 166982,
+    "directors": [
+      "Leena Kata",
+      "Ronith Yohannan"
+    ]
+  },
+  {
+    "cin": "U45740DL2017PTC402060",
+    "company_name": "Chawla, Rao and Minhas",
+    "registration_date": "2022-08-21",
+    "status": "Active",
+    "authorized_capital": 981473,
+    "paid_up_capital": 2305237,
+    "directors": [
+      "Damyanti Pal",
+      "Deepa Konda"
+    ]
+  },
+  {
+    "cin": "U93797KA2013PTC752238",
+    "company_name": "Patla LLC",
+    "registration_date": "2018-11-28",
+    "status": "Active",
+    "authorized_capital": 4895131,
+    "paid_up_capital": 3257308,
+    "directors": [
+      "Zaitra Choudhary",
+      "Januja Morar"
+    ]
+  },
+  {
+    "cin": "U63463DL2018PTC197020",
+    "company_name": "Hans-Korpal",
+    "registration_date": "2026-04-07",
+    "status": "Active",
+    "authorized_capital": 1086550,
+    "paid_up_capital": 966755,
+    "directors": [
+      "Tejas Gokhale",
+      "Ryan Gulati"
+    ]
+  },
+  {
+    "cin": "U78459MH2025PTC559791",
+    "company_name": "Mittal-Bath",
+    "registration_date": "2023-05-15",
+    "status": "Active",
+    "authorized_capital": 1966859,
+    "paid_up_capital": 2781286,
+    "directors": [
+      "Sachi Kata",
+      "Max Sehgal"
+    ]
+  },
+  {
+    "cin": "U50197KA2004PTC108710",
+    "company_name": "Chandran and Sons",
+    "registration_date": "2020-12-07",
+    "status": "Active",
+    "authorized_capital": 1016693,
+    "paid_up_capital": 980765,
+    "directors": [
+      "Warhi Gala",
+      "Orinder Loke"
+    ]
+  },
+  {
+    "cin": "U46543MH2002PTC411203",
+    "company_name": "Roy-Oak",
+    "registration_date": "2021-04-15",
+    "status": "Active",
+    "authorized_capital": 1490182,
+    "paid_up_capital": 2953408,
+    "directors": [
+      "Ojasvi Kale",
+      "Janaki Arora"
+    ]
+  },
+  {
+    "cin": "U43847KA2020PTC533685",
+    "company_name": "Wagle, Sane and Chand",
+    "registration_date": "2026-07-14",
+    "status": "Active",
+    "authorized_capital": 4879093,
+    "paid_up_capital": 1005535,
+    "directors": [
+      "Aarav Sidhu",
+      "Leela Pandit"
+    ]
+  },
+  {
+    "cin": "U21826MH2017PTC346432",
+    "company_name": "Patla-Venkataraman",
+    "registration_date": "2023-08-22",
+    "status": "Active",
+    "authorized_capital": 3488242,
+    "paid_up_capital": 3153051,
+    "directors": [
+      "Yahvi Dara",
+      "Shravya Andra"
+    ]
+  },
+  {
+    "cin": "U25388DL2016PTC692509",
+    "company_name": "Sura PLC",
+    "registration_date": "2022-05-21",
+    "status": "Active",
+    "authorized_capital": 1479647,
+    "paid_up_capital": 2193602,
+    "directors": [
+      "Lohit Chopra",
+      "Atharv Arya"
+    ]
+  },
+  {
+    "cin": "U47995DL2022PTC865594",
+    "company_name": "Dey, Bajwa and Ranganathan",
+    "registration_date": "2020-08-13",
+    "status": "Active",
+    "authorized_capital": 2606366,
+    "paid_up_capital": 4232122,
+    "directors": [
+      "Teerth Sharaf",
+      "Eesha Grover"
+    ]
+  },
+  {
+    "cin": "U57630KA2018PTC468707",
+    "company_name": "Bal LLC",
+    "registration_date": "2019-07-31",
+    "status": "Active",
+    "authorized_capital": 4964998,
+    "paid_up_capital": 3634962,
+    "directors": [
+      "Rajata Bath",
+      "Manbir Batra"
+    ]
+  },
+  {
+    "cin": "U80706DL2025PTC146717",
+    "company_name": "Sankar and Sons",
+    "registration_date": "2026-03-24",
+    "status": "Active",
+    "authorized_capital": 1123400,
+    "paid_up_capital": 4050288,
+    "directors": [
+      "Keya Kala",
+      "Sudiksha Chatterjee"
+    ]
+  },
+  {
+    "cin": "U39683DL2019PTC805328",
+    "company_name": "Tank and Sons",
+    "registration_date": "2023-07-06",
+    "status": "Active",
+    "authorized_capital": 2691478,
+    "paid_up_capital": 3499396,
+    "directors": [
+      "Yug Vala",
+      "Akshay Kanda"
+    ]
+  },
+  {
+    "cin": "U82066KA2013PTC121418",
+    "company_name": "Sahni-Sachar",
+    "registration_date": "2019-08-20",
+    "status": "Active",
+    "authorized_capital": 3589055,
+    "paid_up_capital": 853592,
+    "directors": [
+      "Triveni Puri",
+      "Yoshita Sathe"
+    ]
+  },
+  {
+    "cin": "U52953DL2023PTC254636",
+    "company_name": "Bansal PLC",
+    "registration_date": "2024-07-03",
+    "status": "Active",
+    "authorized_capital": 1836629,
+    "paid_up_capital": 976119,
+    "directors": [
+      "Krishna Sarraf",
+      "Megha Sastry"
+    ]
+  },
+  {
+    "cin": "U38207KA2015PTC775272",
+    "company_name": "Devi, Bobal and Sankaran",
+    "registration_date": "2022-04-09",
+    "status": "Active",
+    "authorized_capital": 2618057,
+    "paid_up_capital": 1651739,
+    "directors": [
+      "Prisha Bedi",
+      "Meghana Hari"
+    ]
+  },
+  {
+    "cin": "U26508KA2025PTC416579",
+    "company_name": "Doshi-Kaur",
+    "registration_date": "2024-08-04",
+    "status": "Active",
+    "authorized_capital": 4920006,
+    "paid_up_capital": 3183000,
+    "directors": [
+      "Vyanjana Mital",
+      "Kalpit Aurora"
+    ]
+  },
+  {
+    "cin": "U67497KA2019PTC619939",
+    "company_name": "Kanda LLC",
+    "registration_date": "2022-01-09",
+    "status": "Active",
+    "authorized_capital": 2706878,
+    "paid_up_capital": 2462421,
+    "directors": [
+      "Neelima Mani",
+      "Onkar Madan"
+    ]
+  },
+  {
+    "cin": "U14260MH2009PTC499133",
+    "company_name": "Sachdev Ltd",
+    "registration_date": "2020-08-29",
+    "status": "Active",
+    "authorized_capital": 1336828,
+    "paid_up_capital": 655992,
+    "directors": [
+      "Naksh Wali",
+      "Aryan Naidu"
+    ]
+  },
+  {
+    "cin": "U41240KA2022PTC101337",
+    "company_name": "Sachdeva-Bal",
+    "registration_date": "2021-06-21",
+    "status": "Active",
+    "authorized_capital": 4986173,
+    "paid_up_capital": 2842801,
+    "directors": [
+      "Farhan Memon",
+      "Darsh Rajagopalan"
+    ]
+  },
+  {
+    "cin": "U87146MH2018PTC240577",
+    "company_name": "Rajagopal LLC",
+    "registration_date": "2018-11-29",
+    "status": "Active",
+    "authorized_capital": 742821,
+    "paid_up_capital": 2120644,
+    "directors": [
+      "Bhavya Bera",
+      "Zashil Srivastava"
+    ]
+  },
+  {
+    "cin": "U93042MH2024PTC472327",
+    "company_name": "Natarajan-Raja",
+    "registration_date": "2020-10-06",
+    "status": "Active",
+    "authorized_capital": 710562,
+    "paid_up_capital": 793428,
+    "directors": [
+      "Kritika Nori",
+      "Azad Dugal"
+    ]
+  },
+  {
+    "cin": "U89084MH2003PTC984122",
+    "company_name": "Peri, Bhatia and Lalla",
+    "registration_date": "2021-08-01",
+    "status": "Active",
+    "authorized_capital": 3277998,
+    "paid_up_capital": 2181273,
+    "directors": [
+      "Laban Date",
+      "Varenya Mani"
+    ]
+  },
+  {
+    "cin": "U24734MH2008PTC244207",
+    "company_name": "Krishnamurthy LLC",
+    "registration_date": "2025-08-29",
+    "status": "Active",
+    "authorized_capital": 4260365,
+    "paid_up_capital": 2781955,
+    "directors": [
+      "Upkaar Kunda",
+      "Vyanjana Dar"
+    ]
+  },
+  {
+    "cin": "U82027DL2001PTC400278",
+    "company_name": "Balakrishnan Ltd",
+    "registration_date": "2024-06-03",
+    "status": "Active",
+    "authorized_capital": 3863645,
+    "paid_up_capital": 4999139,
+    "directors": [
+      "Balvan Dutta",
+      "Oni Pall"
+    ]
+  },
+  {
+    "cin": "U96659MH2022PTC191526",
+    "company_name": "Mammen, Mall and Bandi",
+    "registration_date": "2021-05-23",
+    "status": "Active",
+    "authorized_capital": 1211943,
+    "paid_up_capital": 2570011,
+    "directors": [
+      "Watika Saxena",
+      "Radhika Sarkar"
+    ]
+  },
+  {
+    "cin": "U34474DL2023PTC816050",
+    "company_name": "Chowdhury, Tak and Mangal",
+    "registration_date": "2023-02-23",
+    "status": "Active",
+    "authorized_capital": 4965727,
+    "paid_up_capital": 507370,
+    "directors": [
+      "Azad Bhardwaj",
+      "Tara Bail"
+    ]
+  },
+  {
+    "cin": "U28583MH2006PTC389439",
+    "company_name": "Ray-Grover",
+    "registration_date": "2023-12-20",
+    "status": "Active",
+    "authorized_capital": 4164506,
+    "paid_up_capital": 948807,
+    "directors": [
+      "Indira Maharaj",
+      "Chaitaly Mani"
+    ]
+  },
+  {
+    "cin": "U87290KA2007PTC867541",
+    "company_name": "Chahal, Mander and Bose",
+    "registration_date": "2020-04-07",
+    "status": "Active",
+    "authorized_capital": 2580075,
+    "paid_up_capital": 4017239,
+    "directors": [
+      "Varsha Rastogi",
+      "Oviya Rout"
+    ]
+  },
+  {
+    "cin": "U77145DL2024PTC986994",
+    "company_name": "Dugar and Sons",
+    "registration_date": "2025-02-07",
+    "status": "Active",
+    "authorized_capital": 4352238,
+    "paid_up_capital": 1917103,
+    "directors": [
+      "Aachal Sodhi",
+      "Baljiwan Handa"
+    ]
+  },
+  {
+    "cin": "U58267MH2017PTC114719",
+    "company_name": "Kade-Shere",
+    "registration_date": "2024-04-12",
+    "status": "Active",
+    "authorized_capital": 1487014,
+    "paid_up_capital": 1327226,
+    "directors": [
+      "Rachana Gera",
+      "Ishani Bal"
+    ]
+  },
+  {
+    "cin": "U21612MH2022PTC470581",
+    "company_name": "Natt LLC",
+    "registration_date": "2023-11-29",
+    "status": "Active",
+    "authorized_capital": 4393081,
+    "paid_up_capital": 101184,
+    "directors": [
+      "Janaki Vasa",
+      "Kavya Soman"
+    ]
+  },
+  {
+    "cin": "U55277DL2003PTC629053",
+    "company_name": "Bumb, Pandya and Parmar",
+    "registration_date": "2026-04-26",
+    "status": "Active",
+    "authorized_capital": 2602284,
+    "paid_up_capital": 1285539,
+    "directors": [
+      "Yatin Ratta",
+      "Laksh Rai"
+    ]
+  },
+  {
+    "cin": "U53131DL2012PTC484505",
+    "company_name": "Atwal, Bath and Sethi",
+    "registration_date": "2022-02-13",
+    "status": "Active",
+    "authorized_capital": 1399023,
+    "paid_up_capital": 4097559,
+    "directors": [
+      "Radhika Kaur",
+      "Yuvraj Vala"
+    ]
+  },
+  {
+    "cin": "U27942KA2023PTC710023",
+    "company_name": "Bains-Narain",
+    "registration_date": "2023-11-12",
+    "status": "Active",
+    "authorized_capital": 3379794,
+    "paid_up_capital": 1517184,
+    "directors": [
+      "Manan Sahota",
+      "Gaurika Mangal"
+    ]
+  },
+  {
+    "cin": "U98814DL2016PTC951155",
+    "company_name": "Aurora, Lad and Mangat",
+    "registration_date": "2023-01-13",
+    "status": "Active",
+    "authorized_capital": 2013588,
+    "paid_up_capital": 2400149,
+    "directors": [
+      "Oviya Narula",
+      "Sara Dubey"
+    ]
+  },
+  {
+    "cin": "U15517MH2017PTC671641",
+    "company_name": "Luthra, Tandon and Karan",
+    "registration_date": "2020-04-21",
+    "status": "Active",
+    "authorized_capital": 1909579,
+    "paid_up_capital": 3299531,
+    "directors": [
+      "Henry Hari",
+      "Chasmum Tata"
+    ]
+  },
+  {
+    "cin": "U66869MH2018PTC181813",
+    "company_name": "Hora Group",
+    "registration_date": "2023-10-02",
+    "status": "Active",
+    "authorized_capital": 1966377,
+    "paid_up_capital": 329832,
+    "directors": [
+      "Logan Anand",
+      "Udarsh Natt"
+    ]
+  },
+  {
+    "cin": "U25271DL2012PTC986948",
+    "company_name": "Kapadia, Sood and Nigam",
+    "registration_date": "2018-11-21",
+    "status": "Active",
+    "authorized_capital": 4719241,
+    "paid_up_capital": 586157,
+    "directors": [
+      "Harita Sen",
+      "Chavvi Nair"
+    ]
+  },
+  {
+    "cin": "U55366DL2005PTC559655",
+    "company_name": "Bobal-Sridhar",
+    "registration_date": "2018-12-03",
+    "status": "Active",
+    "authorized_capital": 3265416,
+    "paid_up_capital": 331494,
+    "directors": [
+      "Alexander Luthra",
+      "Abhimanyu Dayal"
+    ]
+  },
+  {
+    "cin": "U97855KA2025PTC415253",
+    "company_name": "Pillay Group",
+    "registration_date": "2025-01-10",
+    "status": "Active",
+    "authorized_capital": 4556669,
+    "paid_up_capital": 1505209,
+    "directors": [
+      "Damini Karan",
+      "Radhika Rajagopalan"
+    ]
+  },
+  {
+    "cin": "U86114KA2006PTC869784",
+    "company_name": "Tara and Sons",
+    "registration_date": "2023-10-26",
+    "status": "Active",
+    "authorized_capital": 3026241,
+    "paid_up_capital": 1146706,
+    "directors": [
+      "Prisha Iyer",
+      "Yashoda Khosla"
+    ]
+  },
+  {
+    "cin": "U17416KA2015PTC897722",
+    "company_name": "Iyengar, Srivastava and Mammen",
+    "registration_date": "2020-01-16",
+    "status": "Active",
+    "authorized_capital": 4834816,
+    "paid_up_capital": 1437611,
+    "directors": [
+      "Ijaya Dutta",
+      "Sai Goda"
+    ]
+  },
+  {
+    "cin": "U84110KA2014PTC432739",
+    "company_name": "Soni and Sons",
+    "registration_date": "2025-11-26",
+    "status": "Active",
+    "authorized_capital": 1382274,
+    "paid_up_capital": 2126020,
+    "directors": [
+      "Devika Hayre",
+      "Avni Goel"
+    ]
+  },
+  {
+    "cin": "U19401KA2020PTC258521",
+    "company_name": "Sahni-Kapadia",
+    "registration_date": "2025-08-17",
+    "status": "Active",
+    "authorized_capital": 4085129,
+    "paid_up_capital": 3909109,
+    "directors": [
+      "Thomas Buch",
+      "Daksha Lalla"
+    ]
+  },
+  {
+    "cin": "U52456DL2014PTC796125",
+    "company_name": "Nath LLC",
+    "registration_date": "2020-02-08",
+    "status": "Active",
+    "authorized_capital": 3089586,
+    "paid_up_capital": 3824428,
+    "directors": [
+      "Luke Halder",
+      "Jeremiah Khare"
+    ]
+  },
+  {
+    "cin": "U25101KA2010PTC929715",
+    "company_name": "Bassi, Yohannan and Parikh",
+    "registration_date": "2023-05-11",
+    "status": "Active",
+    "authorized_capital": 532271,
+    "paid_up_capital": 128989,
+    "directors": [
+      "Darika Patil",
+      "Wyatt Hora"
+    ]
+  },
+  {
+    "cin": "U56159DL2016PTC922920",
+    "company_name": "Murty Ltd",
+    "registration_date": "2021-08-13",
+    "status": "Active",
+    "authorized_capital": 273420,
+    "paid_up_capital": 3037030,
+    "directors": [
+      "Ojasvi Handa",
+      "Devansh Brar"
+    ]
+  },
+  {
+    "cin": "U46343DL2002PTC633294",
+    "company_name": "Grover, Devan and Ravi",
+    "registration_date": "2019-05-17",
+    "status": "Active",
+    "authorized_capital": 784710,
+    "paid_up_capital": 4854930,
+    "directors": [
+      "Yatan Borah",
+      "Jagdish Subramaniam"
+    ]
+  },
+  {
+    "cin": "U30000MH2015PTC598350",
+    "company_name": "Nayar PLC",
+    "registration_date": "2024-10-17",
+    "status": "Active",
+    "authorized_capital": 4752849,
+    "paid_up_capital": 1760516,
+    "directors": [
+      "Yagnesh Patil",
+      "Zayyan Pall"
+    ]
+  },
+  {
+    "cin": "U14423DL2014PTC443238",
+    "company_name": "Arya-Shenoy",
+    "registration_date": "2026-06-16",
+    "status": "Active",
+    "authorized_capital": 2506855,
+    "paid_up_capital": 130459,
+    "directors": [
+      "Alka Chawla",
+      "Nidhi Babu"
+    ]
+  },
+  {
+    "cin": "U76112DL2004PTC304530",
+    "company_name": "Devan, Bajwa and Purohit",
+    "registration_date": "2022-09-21",
+    "status": "Active",
+    "authorized_capital": 775664,
+    "paid_up_capital": 2987447,
+    "directors": [
+      "Varsha Rout",
+      "Yauvani Mand"
+    ]
+  },
+  {
+    "cin": "U98088DL2008PTC908959",
+    "company_name": "Devi-Srinivasan",
+    "registration_date": "2022-09-25",
+    "status": "Struck Off",
+    "authorized_capital": 2389229,
+    "paid_up_capital": 502927,
+    "directors": [
+      "Zansi Keer",
+      "Tanveer Bahl"
+    ]
+  },
+  {
+    "cin": "U36000MH2006PTC397646",
+    "company_name": "Chanda Inc",
+    "registration_date": "2024-10-04",
+    "status": "Active",
+    "authorized_capital": 878721,
+    "paid_up_capital": 1113093,
+    "directors": [
+      "Yahvi Date",
+      "Sachi Wagle"
+    ]
+  },
+  {
+    "cin": "U23144MH2019PTC818171",
+    "company_name": "Naidu, Mahajan and Barman",
+    "registration_date": "2026-05-29",
+    "status": "Active",
+    "authorized_capital": 1462818,
+    "paid_up_capital": 1480228,
+    "directors": [
+      "Upma Ramesh",
+      "Chaitaly Bhatia"
+    ]
+  },
+  {
+    "cin": "U49196MH2024PTC654991",
+    "company_name": "Barad-Ray",
+    "registration_date": "2020-06-11",
+    "status": "Active",
+    "authorized_capital": 4289986,
+    "paid_up_capital": 3969239,
+    "directors": [
+      "Tara Mandal",
+      "Ronith Mannan"
+    ]
+  },
+  {
+    "cin": "U23701KA2006PTC429981",
+    "company_name": "Minhas, Hayre and Loke",
+    "registration_date": "2024-03-09",
+    "status": "Active",
+    "authorized_capital": 1368025,
+    "paid_up_capital": 3639916,
+    "directors": [
+      "Charita Tandon",
+      "Aadhya Dada"
+    ]
+  },
+  {
+    "cin": "U78859DL2020PTC489572",
+    "company_name": "Ray-Toor",
+    "registration_date": "2019-12-06",
+    "status": "Active",
+    "authorized_capital": 1012169,
+    "paid_up_capital": 1049998,
+    "directors": [
+      "Yashawini Kade",
+      "Vivaan Dua"
+    ]
+  },
+  {
+    "cin": "U78383DL2010PTC771347",
+    "company_name": "Apte Group",
+    "registration_date": "2025-01-30",
+    "status": "Active",
+    "authorized_capital": 2732021,
+    "paid_up_capital": 2789824,
+    "directors": [
+      "Om Dara",
+      "Januja Bumb"
+    ]
+  },
+  {
+    "cin": "U67391KA2013PTC754457",
+    "company_name": "Varughese Inc",
+    "registration_date": "2022-08-05",
+    "status": "Active",
+    "authorized_capital": 4886438,
+    "paid_up_capital": 909794,
+    "directors": [
+      "Kai Barad",
+      "Krish Manne"
+    ]
+  },
+  {
+    "cin": "U48385DL2019PTC764455",
+    "company_name": "Sehgal, Zacharia and Tella",
+    "registration_date": "2026-01-09",
+    "status": "Active",
+    "authorized_capital": 941105,
+    "paid_up_capital": 4236572,
+    "directors": [
+      "Falak Bhakta",
+      "Edhitha Mall"
+    ]
+  },
+  {
+    "cin": "U27463MH2019PTC664457",
+    "company_name": "Sandhu-Subramanian",
+    "registration_date": "2022-08-15",
+    "status": "Active",
+    "authorized_capital": 3267202,
+    "paid_up_capital": 2346606,
+    "directors": [
+      "Meghana Sethi",
+      "Chatresh Palan"
+    ]
+  },
+  {
+    "cin": "U16288KA2007PTC274189",
+    "company_name": "Comar-Gupta",
+    "registration_date": "2021-10-21",
+    "status": "Active",
+    "authorized_capital": 676186,
+    "paid_up_capital": 1713799,
+    "directors": [
+      "Abdul Kant",
+      "Raagini Pal"
+    ]
+  },
+  {
+    "cin": "U38736MH2004PTC802482",
+    "company_name": "Ravi Inc",
+    "registration_date": "2018-09-19",
+    "status": "Active",
+    "authorized_capital": 1321079,
+    "paid_up_capital": 3783321,
+    "directors": [
+      "Chameli Sood",
+      "Aadi Borra"
+    ]
+  },
+  {
+    "cin": "U42849MH2011PTC582733",
+    "company_name": "Ghose-Chopra",
+    "registration_date": "2022-10-03",
+    "status": "Active",
+    "authorized_capital": 2918764,
+    "paid_up_capital": 3193618,
+    "directors": [
+      "Brijesh Krishnamurthy",
+      "Anirudh Apte"
+    ]
+  },
+  {
+    "cin": "U26897KA2018PTC216336",
+    "company_name": "Bhagat, Maharaj and Aurora",
+    "registration_date": "2026-04-04",
+    "status": "Active",
+    "authorized_capital": 2362928,
+    "paid_up_capital": 4202157,
+    "directors": [
+      "Saumya Khare",
+      "Nidhi Nigam"
+    ]
+  },
+  {
+    "cin": "U76556MH2000PTC701295",
+    "company_name": "Acharya-Ghose",
+    "registration_date": "2024-05-29",
+    "status": "Active",
+    "authorized_capital": 3852293,
+    "paid_up_capital": 3068652,
+    "directors": [
+      "Nathan Choudhury",
+      "Sneha Sampath"
+    ]
+  },
+  {
+    "cin": "U77279DL2015PTC523763",
+    "company_name": "Sanghvi, Ramakrishnan and Kala",
+    "registration_date": "2023-05-24",
+    "status": "Active",
+    "authorized_capital": 1052244,
+    "paid_up_capital": 4542202,
+    "directors": [
+      "Saksham Vaidya",
+      "Libni Mukherjee"
+    ]
+  },
+  {
+    "cin": "U38757MH2012PTC519043",
+    "company_name": "Pillai, Yadav and Dora",
+    "registration_date": "2020-10-28",
+    "status": "Active",
+    "authorized_capital": 2622707,
+    "paid_up_capital": 1403314,
+    "directors": [
+      "Wridesh Dara",
+      "Timothy Borde"
+    ]
+  },
+  {
+    "cin": "U27794KA2024PTC896797",
+    "company_name": "Mane-Bains",
+    "registration_date": "2026-07-29",
+    "status": "Active",
+    "authorized_capital": 1950888,
+    "paid_up_capital": 612424,
+    "directors": [
+      "Nihal Tandon",
+      "Qarin Vohra"
+    ]
+  },
+  {
+    "cin": "U75689KA2004PTC764411",
+    "company_name": "Bath-Subramaniam",
+    "registration_date": "2026-01-23",
+    "status": "Active",
+    "authorized_capital": 3051711,
+    "paid_up_capital": 885676,
+    "directors": [
+      "Vansha Sahni",
+      "Nathan Nanda"
+    ]
+  },
+  {
+    "cin": "U11427MH2016PTC673498",
+    "company_name": "Gara-Sachdev",
+    "registration_date": "2020-10-08",
+    "status": "Active",
+    "authorized_capital": 4528291,
+    "paid_up_capital": 2021710,
+    "directors": [
+      "Bhavna Zacharia",
+      "Qushi Pradhan"
+    ]
+  },
+  {
+    "cin": "U10434DL2011PTC477734",
+    "company_name": "Gole, Nadig and Dugar",
+    "registration_date": "2023-10-14",
+    "status": "Active",
+    "authorized_capital": 287421,
+    "paid_up_capital": 3033164,
+    "directors": [
+      "Jasmit Zachariah",
+      "Rohan Bhardwaj"
+    ]
+  },
+  {
+    "cin": "U85961DL2024PTC819490",
+    "company_name": "Lanka-Tandon",
+    "registration_date": "2019-08-11",
+    "status": "Active",
+    "authorized_capital": 3375769,
+    "paid_up_capital": 1720110,
+    "directors": [
+      "Amara Ray",
+      "Yachana Dugar"
+    ]
+  },
+  {
+    "cin": "U17921DL2008PTC485210",
+    "company_name": "Majumdar, Ghose and Reddy",
+    "registration_date": "2019-11-28",
+    "status": "Active",
+    "authorized_capital": 357614,
+    "paid_up_capital": 4529571,
+    "directors": [
+      "Wazir Issac",
+      "Nakul Gola"
+    ]
+  },
+  {
+    "cin": "U22811DL2017PTC493580",
+    "company_name": "Dugal Inc",
+    "registration_date": "2022-12-21",
+    "status": "Active",
+    "authorized_capital": 377643,
+    "paid_up_capital": 3966717,
+    "directors": [
+      "Anvi Sem",
+      "Udant Bhatia"
+    ]
+  },
+  {
+    "cin": "U28276KA2022PTC224938",
+    "company_name": "Dass Group",
+    "registration_date": "2018-12-05",
+    "status": "Active",
+    "authorized_capital": 4949771,
+    "paid_up_capital": 1228118,
+    "directors": [
+      "Rachit Gandhi",
+      "Mitali Singhal"
+    ]
+  },
+  {
+    "cin": "U73690DL2018PTC888278",
+    "company_name": "Luthra, Lala and Saini",
+    "registration_date": "2022-09-16",
+    "status": "Active",
+    "authorized_capital": 861566,
+    "paid_up_capital": 1751995,
+    "directors": [
+      "Chaman Ramakrishnan",
+      "Jyoti Mistry"
+    ]
+  },
+  {
+    "cin": "U67273DL2018PTC223492",
+    "company_name": "Dayal Ltd",
+    "registration_date": "2019-01-10",
+    "status": "Active",
+    "authorized_capital": 1007865,
+    "paid_up_capital": 4932158,
+    "directors": [
+      "Faras Chaudhuri",
+      "Zashil Thakur"
+    ]
+  },
+  {
+    "cin": "U40996DL2015PTC148341",
+    "company_name": "Borah, Malhotra and Chad",
+    "registration_date": "2018-12-19",
+    "status": "Active",
+    "authorized_capital": 1794458,
+    "paid_up_capital": 262462,
+    "directors": [
+      "Gaurika Sahota",
+      "Lajita Narula"
+    ]
+  },
+  {
+    "cin": "U51118KA2020PTC262922",
+    "company_name": "Sachdev-Viswanathan",
+    "registration_date": "2023-12-05",
+    "status": "Active",
+    "authorized_capital": 3551653,
+    "paid_up_capital": 1746602,
+    "directors": [
+      "Sudiksha Wali",
+      "Indali Dhar"
+    ]
+  },
+  {
+    "cin": "U65757DL2007PTC806796",
+    "company_name": "Narang, Pradhan and Mitra",
+    "registration_date": "2023-09-03",
+    "status": "Active",
+    "authorized_capital": 4595809,
+    "paid_up_capital": 4938331,
+    "directors": [
+      "Maanav Wable",
+      "Upma Sundaram"
+    ]
+  },
+  {
+    "cin": "U21622KA2013PTC523225",
+    "company_name": "Saraf, Ahluwalia and Kaul",
+    "registration_date": "2019-10-07",
+    "status": "Active",
+    "authorized_capital": 2182732,
+    "paid_up_capital": 552925,
+    "directors": [
+      "Eesha Balasubramanian",
+      "Jairaj Keer"
+    ]
+  },
+  {
+    "cin": "U65750KA2021PTC423797",
+    "company_name": "Mohanty-Shah",
+    "registration_date": "2021-12-12",
+    "status": "Struck Off",
+    "authorized_capital": 2785086,
+    "paid_up_capital": 1409266,
+    "directors": [
+      "Balhaar Sha",
+      "Ekanta Mitter"
+    ]
+  },
+  {
+    "cin": "U26557DL2009PTC418212",
+    "company_name": "Contractor-Gulati",
+    "registration_date": "2019-09-25",
+    "status": "Active",
+    "authorized_capital": 4472826,
+    "paid_up_capital": 4946122,
+    "directors": [
+      "Watika Bala",
+      "Dhruv Madan"
+    ]
+  },
+  {
+    "cin": "U34000DL2006PTC334566",
+    "company_name": "Sur, Sami and Chopra",
+    "registration_date": "2018-10-08",
+    "status": "Active",
+    "authorized_capital": 2474277,
+    "paid_up_capital": 1368409,
+    "directors": [
+      "Peter Lall",
+      "Netra Bhargava"
+    ]
+  },
+  {
+    "cin": "U17519MH2023PTC307544",
+    "company_name": "D\u2019Alia, Wagle and Swaminathan",
+    "registration_date": "2025-01-16",
+    "status": "Active",
+    "authorized_capital": 3797014,
+    "paid_up_capital": 4279754,
+    "directors": [
+      "Bhanumati Thaker",
+      "Gautami Kannan"
+    ]
+  },
+  {
+    "cin": "U35441KA2011PTC508654",
+    "company_name": "Pathak-Saraf",
+    "registration_date": "2023-09-15",
+    "status": "Active",
+    "authorized_capital": 1856284,
+    "paid_up_capital": 354133,
+    "directors": [
+      "Leena Patil",
+      "Kalpit Mukherjee"
+    ]
+  },
+  {
+    "cin": "U55732MH2010PTC112057",
+    "company_name": "Sawhney, Radhakrishnan and Nagar",
+    "registration_date": "2020-02-20",
+    "status": "Active",
+    "authorized_capital": 4036983,
+    "paid_up_capital": 2302846,
+    "directors": [
+      "Bhavna Madan",
+      "Viraj Tank"
+    ]
+  },
+  {
+    "cin": "U21459DL2012PTC930662",
+    "company_name": "Mand PLC",
+    "registration_date": "2025-06-28",
+    "status": "Active",
+    "authorized_capital": 4756507,
+    "paid_up_capital": 493203,
+    "directors": [
+      "Ekbal Lall",
+      "Yadavi Kumar"
+    ]
+  },
+  {
+    "cin": "U47152MH2007PTC110874",
+    "company_name": "Sahni Inc",
+    "registration_date": "2021-06-14",
+    "status": "Active",
+    "authorized_capital": 4201847,
+    "paid_up_capital": 3003533,
+    "directors": [
+      "Akshay Kumer",
+      "Matthew Raval"
+    ]
+  },
+  {
+    "cin": "U73202DL2021PTC222389",
+    "company_name": "Bhatt, Sankaran and Khosla",
+    "registration_date": "2019-07-19",
+    "status": "Active",
+    "authorized_capital": 718282,
+    "paid_up_capital": 3704565,
+    "directors": [
+      "Mohini Sura",
+      "Ranveer Bajwa"
+    ]
+  },
+  {
+    "cin": "U50972DL2018PTC809602",
+    "company_name": "Rai Group",
+    "registration_date": "2022-01-31",
+    "status": "Active",
+    "authorized_capital": 1743450,
+    "paid_up_capital": 1479501,
+    "directors": [
+      "Jeevika Balay",
+      "Girindra Naidu"
+    ]
+  },
+  {
+    "cin": "U49690DL2007PTC641725",
+    "company_name": "Som-Chad",
+    "registration_date": "2018-10-05",
+    "status": "Active",
+    "authorized_capital": 394073,
+    "paid_up_capital": 2521793,
+    "directors": [
+      "Janya Parsa",
+      "Aayush Vora"
+    ]
+  },
+  {
+    "cin": "U23094DL2004PTC242302",
+    "company_name": "Narula and Sons",
+    "registration_date": "2024-06-14",
+    "status": "Active",
+    "authorized_capital": 1119033,
+    "paid_up_capital": 401401,
+    "directors": [
+      "Ishani Bhalla",
+      "Girindra Karpe"
+    ]
+  },
+  {
+    "cin": "U18478KA2010PTC756680",
+    "company_name": "Pandit PLC",
+    "registration_date": "2018-06-18",
+    "status": "Active",
+    "authorized_capital": 4188922,
+    "paid_up_capital": 1482218,
+    "directors": [
+      "Upadhriti Rajan",
+      "Gauri Dua"
+    ]
+  },
+  {
+    "cin": "U60901DL2017PTC363764",
+    "company_name": "Dubey-Sandal",
+    "registration_date": "2019-12-22",
+    "status": "Active",
+    "authorized_capital": 489201,
+    "paid_up_capital": 4455852,
+    "directors": [
+      "Jacob Yadav",
+      "Chandani Goda"
+    ]
+  },
+  {
+    "cin": "U90334DL2011PTC904080",
+    "company_name": "Setty PLC",
+    "registration_date": "2024-10-25",
+    "status": "Active",
+    "authorized_capital": 2775023,
+    "paid_up_capital": 4369447,
+    "directors": [
+      "Chandran Swaminathan",
+      "Harita Narang"
+    ]
+  },
+  {
+    "cin": "U31609KA2018PTC356526",
+    "company_name": "Mangal-Menon",
+    "registration_date": "2022-01-20",
+    "status": "Active",
+    "authorized_capital": 1507917,
+    "paid_up_capital": 1138623,
+    "directors": [
+      "Anusha Dyal",
+      "Girish Borra"
+    ]
+  },
+  {
+    "cin": "U96847DL2006PTC419844",
+    "company_name": "Sachdeva, Khalsa and Tripathi",
+    "registration_date": "2025-04-03",
+    "status": "Active",
+    "authorized_capital": 4382262,
+    "paid_up_capital": 4764036,
+    "directors": [
+      "Urvi Srinivasan",
+      "Utkarsh Barad"
+    ]
+  },
+  {
+    "cin": "U21846KA2016PTC321067",
+    "company_name": "Misra Ltd",
+    "registration_date": "2021-01-03",
+    "status": "Active",
+    "authorized_capital": 2500741,
+    "paid_up_capital": 4865305,
+    "directors": [
+      "Aashi Mangal",
+      "Frederick Jha"
+    ]
+  },
+  {
+    "cin": "U88983MH2011PTC978368",
+    "company_name": "Kakar, Madan and Kibe",
+    "registration_date": "2019-07-26",
+    "status": "Active",
+    "authorized_capital": 2135474,
+    "paid_up_capital": 3696407,
+    "directors": [
+      "Henry Shukla",
+      "Alexander Deshmukh"
+    ]
+  },
+  {
+    "cin": "U89962MH2010PTC648506",
+    "company_name": "Ghose Inc",
+    "registration_date": "2022-12-05",
+    "status": "Active",
+    "authorized_capital": 835367,
+    "paid_up_capital": 4138485,
+    "directors": [
+      "Rohan Doctor",
+      "Azad Ghosh"
+    ]
+  },
+  {
+    "cin": "U98718MH2013PTC868135",
+    "company_name": "Rau-Ganguly",
+    "registration_date": "2019-12-18",
+    "status": "Active",
+    "authorized_capital": 3260136,
+    "paid_up_capital": 1846237,
+    "directors": [
+      "Tristan Cheema",
+      "Ayushman Puri"
+    ]
+  },
+  {
+    "cin": "U33225DL2002PTC821265",
+    "company_name": "Narayan, Comar and Mand",
+    "registration_date": "2025-01-26",
+    "status": "Active",
+    "authorized_capital": 3016633,
+    "paid_up_capital": 3545102,
+    "directors": [
+      "Faraj Tripathi",
+      "Varenya Hayer"
+    ]
+  },
+  {
+    "cin": "U35983KA2019PTC805466",
+    "company_name": "Kapur Group",
+    "registration_date": "2020-12-30",
+    "status": "Active",
+    "authorized_capital": 1988639,
+    "paid_up_capital": 1366930,
+    "directors": [
+      "Indira Bhagat",
+      "Prisha Kade"
+    ]
+  },
+  {
+    "cin": "U73269MH2022PTC368348",
+    "company_name": "Ray-Chaudhuri",
+    "registration_date": "2018-06-27",
+    "status": "Active",
+    "authorized_capital": 3265439,
+    "paid_up_capital": 2783258,
+    "directors": [
+      "Reyansh Goda",
+      "Amaira Mahajan"
+    ]
+  },
+  {
+    "cin": "U92935KA2012PTC430330",
+    "company_name": "Mammen LLC",
+    "registration_date": "2026-04-09",
+    "status": "Active",
+    "authorized_capital": 2902521,
+    "paid_up_capital": 561467,
+    "directors": [
+      "Yug Nagy",
+      "Jeevika Contractor"
+    ]
+  },
+  {
+    "cin": "U53775DL2002PTC701786",
+    "company_name": "Kari, Kashyap and Tata",
+    "registration_date": "2022-07-28",
+    "status": "Struck Off",
+    "authorized_capital": 3443111,
+    "paid_up_capital": 1693118,
+    "directors": [
+      "Mekhala Maharaj",
+      "Dhriti Mane"
+    ]
+  },
+  {
+    "cin": "U47236KA2002PTC807425",
+    "company_name": "Mohanty-Kohli",
+    "registration_date": "2020-08-07",
+    "status": "Active",
+    "authorized_capital": 3021388,
+    "paid_up_capital": 2250984,
+    "directors": [
+      "Ojas Deep",
+      "Aachal Koshy"
+    ]
+  }
+]

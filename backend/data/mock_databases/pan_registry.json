@@ -1,0 +1,1402 @@
+[
+  {
+    "pan": "PXNCO7348V",
+    "name": "Gour-Bir",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "TBFCQ7169Z",
+    "name": "Borde-Brahmbhatt",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "OBCCR8863V",
+    "name": "Lata, Sibal and Doctor",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "GCQCM7284M",
+    "name": "Gandhi-Kakar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "FUUCL5490R",
+    "name": "Natarajan-Gera",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "RASCM2016A",
+    "name": "Lanka Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "QNPCU7040J",
+    "name": "Narayanan, Khare and Jani",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "LUGCA8427F",
+    "name": "Gulati, Ravel and Dhar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "JTGCL6694J",
+    "name": "Choudhury-Om",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "JJFCZ1076L",
+    "name": "Sarma-Mani",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "JRWCR4486I",
+    "name": "Oza, Jhaveri and Thakkar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "NOECF3422Z",
+    "name": "Rege and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "YUUCX8329C",
+    "name": "Chaudhry, Chaudhry and Chadha",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "QNXCV9639E",
+    "name": "Srinivas, Swamy and Bath",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "AWHCM2127P",
+    "name": "Bath Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "TBVCO9439X",
+    "name": "Lala Inc",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "MPCCO4734V",
+    "name": "Mann, Sur and Raghavan",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "GULCN3729D",
+    "name": "Shere, Subramanian and Iyer",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "SVOCU6146G",
+    "name": "Radhakrishnan-Naik",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "XETCT8974B",
+    "name": "Bora PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "VOOCX6322N",
+    "name": "Chahal, Chhabra and Lall",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "ZIZCU8598K",
+    "name": "Char, Dada and Korpal",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "BTACC9459C",
+    "name": "Vyas LLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "BYFCL1131U",
+    "name": "Talwar Group",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "IHXCU6763T",
+    "name": "Bali-Guha",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "LXYCF8143J",
+    "name": "Koshy, Dass and Varkey",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "XENCH5192Y",
+    "name": "Kalita, Handa and Divan",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "GDRCS3310L",
+    "name": "Naik and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "ZTCCN5994W",
+    "name": "Mannan-Sundaram",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "GPYCQ6558A",
+    "name": "Om-Munshi",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "TLXCL7372K",
+    "name": "Dasgupta, Narula and Vala",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "RGRCZ7128Z",
+    "name": "Dora, Mane and Kapadia",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "YSICD9808Q",
+    "name": "Divan-Dhar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "MMPCI2498U",
+    "name": "Sama-Srivastava",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "COACJ5737L",
+    "name": "Ben-Sabharwal",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "SJJCY3031W",
+    "name": "Patla, Brar and Tella",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "GJFCU6876H",
+    "name": "Ganesh Ltd",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "JWMCJ2654C",
+    "name": "Bhandari, Dash and De",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "CQVCC6482U",
+    "name": "Savant Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "WMDCI1872W",
+    "name": "Sarna LLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "CIXCK6942P",
+    "name": "Savant, Kakar and Wali",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "VWHCQ5510F",
+    "name": "Soni, Pau and Nath",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "CDSCA5255H",
+    "name": "Sharaf, Rao and Pradhan",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "QBDCT9631S",
+    "name": "Pandit PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "FWYCF8278P",
+    "name": "Baral-Saini",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "KSUCK1546T",
+    "name": "Samra Ltd",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "AUJCX4839L",
+    "name": "Som-Balay",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "GQSCW6667X",
+    "name": "Tailor-Palan",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "HYACU3606J",
+    "name": "Mitter-Wadhwa",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "OMCCY8193P",
+    "name": "Gade, Grewal and Radhakrishnan",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "XEUCB6580B",
+    "name": "Samra-Yadav",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "IRMCM7742J",
+    "name": "Borde, Lalla and Bajaj",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "XNYCS9511L",
+    "name": "Oommen, Swaminathan and Magar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "YBFCQ7041F",
+    "name": "Contractor and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "JLHCI2341L",
+    "name": "Sachar Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "SBVCI6519I",
+    "name": "Ray, Bora and Dhar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "MJCCU3622O",
+    "name": "Batra, Kaul and Majumdar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "RFACH6090P",
+    "name": "Dugar, Wali and Kara",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "WHOCJ3690G",
+    "name": "Grewal PLC",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "SMGCA6785K",
+    "name": "Bose Group",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "OWSCY5392O",
+    "name": "Bora, Ramanathan and Chauhan",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "HVRCH7785E",
+    "name": "Naik PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "BLBCS9709X",
+    "name": "Gokhale-Sachdeva",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "GFHCO9512G",
+    "name": "Gole Inc",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "UPACI5808O",
+    "name": "Mutti-Kibe",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "FYCCU3445S",
+    "name": "Solanki PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "ZGMCK2013K",
+    "name": "Shukla Ltd",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "FYPCC9009O",
+    "name": "Nagi Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "JBCCZ7206F",
+    "name": "Butala Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "KDTCD2880K",
+    "name": "Choudhary PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "CKGCL8993J",
+    "name": "Dey Ltd",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "PPBCS8314M",
+    "name": "Mishra-Raman",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "QXHCR3000E",
+    "name": "Wagle and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "GYCCL5744I",
+    "name": "Sen PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "ESMCD6288S",
+    "name": "Choudhary Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "ORMCY3173Z",
+    "name": "Nair, Buch and Loyal",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "NYQCD7631R",
+    "name": "Shroff, Mitter and Halder",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "VNHCE8144W",
+    "name": "Bala, Balasubramanian and Garde",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "RJDCN2044K",
+    "name": "Sharaf-Chand",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "HLJCJ3985I",
+    "name": "Maharaj Ltd",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "LSDCI9150Y",
+    "name": "Sarma PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "EDFCS3963M",
+    "name": "Chana, Saxena and Jain",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "VGKCF6610L",
+    "name": "Bali Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "YFBCI5650E",
+    "name": "Sani, Wagle and Setty",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "OQACW2317F",
+    "name": "Oza Ltd",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "LFWCC4205P",
+    "name": "Magar, Bhatnagar and Bahl",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "QYACJ6950K",
+    "name": "Vyas-Baria",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "KKECX3055P",
+    "name": "Chatterjee Group",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "SGVCZ1598P",
+    "name": "Sura, Raj and Bir",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "QLSCR9095P",
+    "name": "Samra-Tak",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "SXNCF8870P",
+    "name": "Chawla, Rao and Minhas",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "DKLCB2690N",
+    "name": "Patla LLC",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "RAXCW2197N",
+    "name": "Hans-Korpal",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "ZGHCV8115X",
+    "name": "Mittal-Bath",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "XBOCN4046S",
+    "name": "Chandran and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "GXVCV8495H",
+    "name": "Roy-Oak",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "CYXCC3949J",
+    "name": "Wagle, Sane and Chand",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "UCZCB2884I",
+    "name": "Patla-Venkataraman",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "OVOCS7651B",
+    "name": "Sura PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "OBXCR5864H",
+    "name": "Dey, Bajwa and Ranganathan",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "UXRCS7730M",
+    "name": "Bal LLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "DQWCG5212P",
+    "name": "Sankar and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "POUCS4879Q",
+    "name": "Tank and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "JBQCG6406G",
+    "name": "Sahni-Sachar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "GZTCY3002D",
+    "name": "Kala, Gopal and Virk",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "FSRCH5972M",
+    "name": "Devi, Bobal and Sankaran",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "SOACL7073G",
+    "name": "Doshi-Kaur",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "RDOCK9240K",
+    "name": "Kanda LLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "ESCCZ5216I",
+    "name": "Sachdev Ltd",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "LNECJ8781P",
+    "name": "Sachdeva-Bal",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "WXDCT8537U",
+    "name": "Rajagopal LLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "KUNCL2786J",
+    "name": "Natarajan-Raja",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "HZWCQ1310A",
+    "name": "Peri, Bhatia and Lalla",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "OKMCX6912A",
+    "name": "Krishnamurthy LLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "WZICL1840S",
+    "name": "Balakrishnan Ltd",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "PNACK3899M",
+    "name": "Mammen, Mall and Bandi",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "KGGCZ6012H",
+    "name": "Chowdhury, Tak and Mangal",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "NHOCT7286D",
+    "name": "Ray-Grover",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "QKECY1772M",
+    "name": "Chahal, Mander and Bose",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "NTKCN7901D",
+    "name": "Dugar and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "DCBCP3241Q",
+    "name": "Kade-Shere",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "RLOCD2981L",
+    "name": "Natt LLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "TWUCB1257M",
+    "name": "Bumb, Pandya and Parmar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "NJWCQ2496W",
+    "name": "Atwal, Bath and Sethi",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "HVYCR8096P",
+    "name": "Bains-Narain",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "CAZCG5837A",
+    "name": "Aurora, Lad and Mangat",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "SMNCP3695Y",
+    "name": "Kalita-Aurora",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "FPNCK7400T",
+    "name": "Rajagopal PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "PBHCU2758X",
+    "name": "Kapadia, Sood and Nigam",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "HZICX2002C",
+    "name": "Bobal-Sridhar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "AUECB1210G",
+    "name": "Pillay Group",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "FSZCU4304Q",
+    "name": "Tara and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "GKACJ9029V",
+    "name": "Iyengar, Srivastava and Mammen",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "ZEGCQ6687O",
+    "name": "Soni and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "BEYCU6314H",
+    "name": "Sahni-Kapadia",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "NJOCG9669L",
+    "name": "Nath LLC",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "WOZCF5596F",
+    "name": "Bassi, Yohannan and Parikh",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "SNOCC7789E",
+    "name": "Murty Ltd",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "WHMCO5650G",
+    "name": "Grover, Devan and Ravi",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "HBZCD2868S",
+    "name": "Nayar PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "RQSCH4456Q",
+    "name": "Arya-Shenoy",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "HRGCM9203F",
+    "name": "Devan, Bajwa and Purohit",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "TFACB7581H",
+    "name": "Devi-Srinivasan",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "RGUCC6137A",
+    "name": "Chanda Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "JNYCO9597N",
+    "name": "Naidu, Mahajan and Barman",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "AUFCK3736O",
+    "name": "Barad-Ray",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "NYFCZ8899Q",
+    "name": "Minhas, Hayre and Loke",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "LEMCZ2800H",
+    "name": "Ray-Toor",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "VUNCI2909L",
+    "name": "Apte Group",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "DPPCS4399Q",
+    "name": "Varughese Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "RPBCV5533X",
+    "name": "Sehgal, Zacharia and Tella",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "OJJCV3016D",
+    "name": "Sandhu-Subramanian",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "GOICV4171I",
+    "name": "Comar-Gupta",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "YXYCP8187H",
+    "name": "Ravi Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "YKVCP7703G",
+    "name": "Ghose-Chopra",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "VTXCH1382Z",
+    "name": "Bhagat, Maharaj and Aurora",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "IIKCQ3561N",
+    "name": "Acharya-Ghose",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "XLECJ8464V",
+    "name": "Sanghvi, Ramakrishnan and Kala",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "TVLCM9942C",
+    "name": "Pillai, Yadav and Dora",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "XEKCV7253G",
+    "name": "Mane-Bains",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "BZTCV8906A",
+    "name": "Bath-Subramaniam",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "GYBCA9136T",
+    "name": "Gara-Sachdev",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "CCJCZ5197L",
+    "name": "Gole, Nadig and Dugar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "TAICS8050R",
+    "name": "Lanka-Tandon",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "VEYCI2156T",
+    "name": "Majumdar, Ghose and Reddy",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "ELFCI9140I",
+    "name": "Dugal Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "BYPCC1160Q",
+    "name": "Dass Group",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "YXGCW9708S",
+    "name": "Luthra, Lala and Saini",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "KGTCL5085Q",
+    "name": "Dayal Ltd",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "ITECT7067V",
+    "name": "Borah, Malhotra and Chad",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "HIQCY1581X",
+    "name": "Sachdev-Viswanathan",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "OWUCD8020U",
+    "name": "Narang, Pradhan and Mitra",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "JWTCJ5151C",
+    "name": "Saraf, Ahluwalia and Kaul",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "MIICN5861F",
+    "name": "Mohanty-Shah",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "RIJCY1240J",
+    "name": "Hayer, Dara and Bose",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "ZIFCV4407O",
+    "name": "Sur, Sami and Chopra",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "VIPCF5241T",
+    "name": "D\u2019Alia, Wagle and Swaminathan",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "BAGCG1240I",
+    "name": "Pathak-Saraf",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "RNICP2159Z",
+    "name": "Sawhney, Radhakrishnan and Nagar",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "AVXCI8722I",
+    "name": "Narain PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "IYMCV8638P",
+    "name": "Sahni Inc",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "SUBCH8459A",
+    "name": "Bhatt, Sankaran and Khosla",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "ZJXCD3284K",
+    "name": "Rai Group",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "VENCY4712A",
+    "name": "Som-Chad",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "CIXCC5095A",
+    "name": "Narula and Sons",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "PWJCQ6116N",
+    "name": "Pandit PLC",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "XVRCG5427C",
+    "name": "Dubey-Sandal",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "ULJCO9320N",
+    "name": "Setty PLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "OPICJ5861O",
+    "name": "Mangal-Menon",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "QOVCH1662C",
+    "name": "Sachdeva, Khalsa and Tripathi",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "DJNCV8473X",
+    "name": "Misra Ltd",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "LZSCT7749U",
+    "name": "Kakar, Madan and Kibe",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "LBDCG4868C",
+    "name": "Ghose Inc",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "VXZCL7455M",
+    "name": "Rau-Ganguly",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "YRICP4983W",
+    "name": "Narayan, Comar and Mand",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "WDACV4053H",
+    "name": "Kapur Group",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "ATNCP3063J",
+    "name": "Ray-Chaudhuri",
+    "status": "Invalid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "ZENCR9869B",
+    "name": "Mammen LLC",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": true
+  },
+  {
+    "pan": "ZKFCF6119E",
+    "name": "Kari, Kashyap and Tata",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  },
+  {
+    "pan": "DIYCA6070T",
+    "name": "Mohanty-Kohli",
+    "status": "Valid",
+    "category": "Company",
+    "aadhaar_linked": false
+  }
+]
