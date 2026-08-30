@@ -12,7 +12,8 @@ import {
   Filter,
   TrendingUp,
   Building2,
-  AlertCircle
+  AlertCircle,
+  ArrowLeft
 } from 'lucide-react';
 
 // Static Past Awards History data
@@ -72,7 +73,7 @@ const CATEGORIES = [
   { label: 'Piping & Fittings', value: 'Piping & Fittings', icon: '🔩' },
 ];
 
-const Marketplace = ({ onSelectTender, onSetCurrentTab }) => {
+const Marketplace = ({ user, onSelectTender, onSetCurrentTab }) => {
   const [tenders, setTenders] = useState([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
@@ -115,8 +116,36 @@ const Marketplace = ({ onSelectTender, onSetCurrentTab }) => {
     <div className="min-h-screen bg-slate-50">
 
       {/* HERO BANNER */}
-      <div className="bg-gradient-to-br from-slate-950 via-slate-900 to-slate-900 text-white px-4 sm:px-6 lg:px-8 py-12">
+      <div className="bg-gradient-to-br from-slate-950 via-slate-900 to-slate-900 text-white px-4 sm:px-6 lg:px-8 py-8 md:py-12">
         <div className="max-w-7xl mx-auto">
+
+          {/* Top Header Bar */}
+          {onSetCurrentTab && (
+            <div className="flex items-center justify-between pb-6 mb-6 border-b border-white/10">
+              <button
+                onClick={() => onSetCurrentTab('Home')}
+                className="flex items-center space-x-2 bg-white/10 hover:bg-white/20 text-slate-200 hover:text-amber-400 px-4 py-2 rounded-xl text-xs font-bold transition-all border border-white/15"
+              >
+                <ArrowLeft className="w-4 h-4" />
+                <span>Back to Home Portal</span>
+              </button>
+
+              {user ? (
+                <div className="flex items-center space-x-2 bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs font-bold px-3.5 py-2 rounded-xl">
+                  <BadgeCheck className="w-4 h-4 text-amber-400" />
+                  <span>Logged in as: <strong className="text-white font-extrabold">{user.name || (user.portalRole === 'vendor' ? 'Vendor User' : 'Officer')}</strong> ({user.portalRole === 'vendor' ? 'Vendor Access' : 'Officer Access'})</span>
+                </div>
+              ) : (
+                <button
+                  onClick={() => onSetCurrentTab('Login')}
+                  className="bg-gradient-to-r from-amber-500 to-amber-600 text-slate-950 px-4 py-2 rounded-xl text-xs font-black shadow-lg hover:from-amber-400 hover:to-amber-500 transition-all"
+                >
+                  Portal Entry / Sign In →
+                </button>
+              )}
+            </div>
+          )}
+
           <div className="flex items-center space-x-2 text-amber-400 text-xs font-bold uppercase tracking-widest mb-4">
             <Sparkles className="w-4 h-4" />
             <span>CPCL Refinery Division — Government Public Procurement Portal</span>

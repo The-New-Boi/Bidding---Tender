@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { loginUser } from '../api/client';
-import { Building2, User, ShieldCheck, ChevronRight, Sparkles } from 'lucide-react';
+import { Building2, User, ShieldCheck, ChevronRight, Sparkles, ArrowLeft } from 'lucide-react';
 
-const Login = ({ onLoginSuccess }) => {
+const Login = ({ onLoginSuccess, onBackToHome }) => {
   const [role, setRole] = useState(''); // 'officer' | 'vendor'
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
+  const [email, setEmail] = useState('ananya@cpcl.gov.in');
+  const [password, setPassword] = useState('admin123');
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
 
@@ -34,8 +34,19 @@ const Login = ({ onLoginSuccess }) => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 flex items-center justify-center p-4">
-      
+    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 flex flex-col items-center justify-center p-4 relative">
+
+      {/* Top Left Navigation Back to Portal Home */}
+      <div className="absolute top-6 left-6 z-20">
+        <button
+          onClick={onBackToHome}
+          className="flex items-center space-x-2 bg-slate-900/80 hover:bg-slate-800 text-slate-300 hover:text-amber-400 border border-slate-700 px-4 py-2 rounded-xl text-xs font-bold transition-all shadow-md"
+        >
+          <ArrowLeft className="w-4 h-4" />
+          <span>Back to CPCL Home Portal</span>
+        </button>
+      </div>
+
       {/* Background Grid Pattern */}
       <div className="absolute inset-0 opacity-5" style={{
         backgroundImage: 'radial-gradient(circle at 1px 1px, white 1px, transparent 0)',
@@ -199,7 +210,7 @@ const Login = ({ onLoginSuccess }) => {
               </div>
 
               <div className="bg-slate-950/80 p-3 rounded-xl border border-slate-800 text-[11px] text-slate-500">
-                Demo: ananya@cpcl.gov.in / admin123
+                Demo: ananya@cpcl.gov.in  / admin123
               </div>
 
               <button

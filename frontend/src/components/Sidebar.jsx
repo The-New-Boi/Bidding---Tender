@@ -12,9 +12,10 @@ import {
   Building2,
   ChevronRight,
   Store,
-  History,
-  User,
-  BadgeCheck
+  Wallet,
+  Award,
+  FileCheck,
+  BadgeCheck,
 } from 'lucide-react';
 import { logoutUser } from '../api/client';
 
@@ -29,13 +30,16 @@ const Sidebar = ({ currentTab, setCurrentTab, user, setUser }) => {
   const handleLogout = () => {
     logoutUser();
     setUser(null);
-    setCurrentTab('Login');
+    setCurrentTab('Home');
   };
 
   // VENDOR NAV ITEMS
   const vendorNavItems = [
     { name: 'Tender Marketplace', id: 'Marketplace', icon: Store },
-    { name: 'My Applications', id: 'VendorDashboard', icon: User },
+    { name: 'My Applications', id: 'VendorDashboard', icon: FileCheck },
+    { name: 'Company Vault & APIs', id: 'VendorProfile', icon: Building2 },
+    { name: 'EMD & Solvency Vault', id: 'VendorEmd', icon: Wallet },
+    { name: 'Awarded Contracts', id: 'VendorContracts', icon: Award },
   ];
 
   // OFFICER NAV ITEMS  
