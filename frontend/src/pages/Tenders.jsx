@@ -68,13 +68,21 @@ const Tenders = ({ onSelectTender }) => {
     }
   };
 
-  const filteredTenders = tenders.filter(t => {
-    const titleMatch = (t.title || '').toLowerCase().includes(searchQuery.toLowerCase()) ||
-                       (t.tender_number || '').toLowerCase().includes(searchQuery.toLowerCase()) ||
-                       (t.category || '').toLowerCase().includes(searchQuery.toLowerCase());
-    const categoryMatch = selectedCategory === 'all' || t.category === selectedCategory;
-    return titleMatch && categoryMatch;
-  });
+  const filteredTenders = tenders
+    .filter(t => {
+      const titleMatch = (t.title || '').toLowerCase().includes(searchQuery.toLowerCase()) ||
+                         (t.tender_number || '').toLowerCase().includes(searchQuery.toLowerCase()) ||
+                         (t.category || '').toLowerCase().includes(searchQuery.toLowerCase());
+      const categoryMatch = selectedCategory === 'all' || t.category === selectedCategory;
+      return titleMatch && categoryMatch;
+    })
+    .sort((a, b) => {
+      const statusOrder = { open: 1, evaluation: 2, awarded: 3, closed: 4 };
+      const orderA = statusOrder[a.status] || 5;
+      const orderB = statusOrder[b.status] || 5;
+      if (orderA !== orderB) return orderA - orderB;
+      return b.id - a.id;
+    });
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-6">

@@ -15,36 +15,107 @@ const VendorContracts = () => {
   const contracts = [
     {
       id: 'PO-2025-CPCL-8821',
-      tenderCode: 'PAST-2025-CPCL-089',
-      title: 'Supply of High-Pressure Safety Relief Valves',
-      department: 'CPCL Chennai Refinery Unit 2',
-      value: '₹42.3 Lakhs',
+      tenderCode: 'TENDER-2025-CPCL-089',
+      title: 'Supply of High-Pressure Safety Relief Valves – CDU Section',
+      department: 'CPCL Chennai Refinery Unit 2 – Safety',
+      value: '₹42.0 Lakhs',
       awardedDate: '15 March 2025',
-      deliveryDeadline: '30 November 2025',
-      status: 'In Progress (80% Delivered)',
+      deliveryDeadline: '30 September 2025',
+      status: 'In Progress (75% Delivered)',
       milestones: [
-        { title: 'Technical Specification Approval', done: true },
-        { title: 'Factory Acceptance Test (FAT)', done: true },
-        { title: 'Batch 1 Shipment & Inspection', done: true },
-        { title: 'Final Installation & Commissioning', done: false }
+        { title: 'Technical Drawing & IBR Approval', done: true },
+        { title: 'Factory Acceptance Test (FAT) – Batch 1', done: true },
+        { title: 'Delivery & Incoming Inspection – Batch 1 (24 units)', done: true },
+        { title: 'Delivery & Incoming Inspection – Batch 2 (24 units)', done: false },
+        { title: 'Final Installation & Hydrotest Commissioning', done: false },
       ]
     },
     {
       id: 'PO-2024-CPCL-7712',
-      tenderCode: 'PAST-2024-CPCL-058',
-      title: 'Annual Maintenance Contract for Instrumentation Systems',
-      department: 'CPCL Manali Complex',
-      value: '₹28.7 Lakhs',
+      tenderCode: 'TENDER-2024-CPCL-058',
+      title: 'Annual Maintenance Contract – Instrumentation Systems 2024-25',
+      department: 'CPCL Manali Complex – Instrumentation',
+      value: '₹26.0 Lakhs',
       awardedDate: '20 August 2024',
       deliveryDeadline: '19 August 2025',
       status: 'Successfully Completed',
       milestones: [
         { title: 'Contract Execution & Security Deposit', done: true },
-        { title: 'Q1 Maintenance Service Audit', done: true },
-        { title: 'Q2 Maintenance Service Audit', done: true },
-        { title: 'Final Contract Closure & Release', done: true }
+        { title: 'Q1 Preventive Maintenance & Calibration', done: true },
+        { title: 'Q2 Preventive Maintenance & SIS Testing', done: true },
+        { title: 'Annual IBR & Safety Instrument Audit', done: true },
+        { title: 'Final Closeout & Performance Certificate', done: true },
       ]
-    }
+    },
+    {
+      id: 'PO-2025-CPCL-9934',
+      tenderCode: 'TENDER-2025-CPCL-071',
+      title: 'Procurement of Heat Exchangers & Cooling Systems – VDU Section',
+      department: 'CPCL Chennai Refinery Unit 1 – Process',
+      value: '₹1.08 Crores',
+      awardedDate: '10 November 2024',
+      deliveryDeadline: '31 March 2025',
+      status: 'Successfully Completed',
+      milestones: [
+        { title: 'Engineering & Detailed Design Approval (ASME VIII)', done: true },
+        { title: 'Material Procurement & Third-Party Inspection', done: true },
+        { title: 'Shell & Tube Fabrication – Stage 1 (4 units)', done: true },
+        { title: 'Air Cooled HX Fabrication & FAT (4 units)', done: true },
+        { title: 'Delivery, Site Erection & Pre-commissioning', done: true },
+      ]
+    },
+    {
+      id: 'PO-2025-CPCL-0452',
+      tenderCode: 'TENDER-2025-CPCL-101',
+      title: 'Procurement & Commissioning of Fired Heater – Crude Preheat Train',
+      department: 'CPCL Fired Equipment & Furnace Division',
+      value: '₹4.80 Crores',
+      awardedDate: '05 January 2025',
+      deliveryDeadline: '15 December 2025',
+      status: 'In Progress (55% Complete)',
+      milestones: [
+        { title: 'Engineering & Licensing – API 560 Compliance', done: true },
+        { title: 'Refractory & Structural Steel Fabrication', done: true },
+        { title: 'Coil Fabrication & Pressure Testing', done: true },
+        { title: 'Shop Erection & Acceptance Test', done: false },
+        { title: 'Site Delivery, Erection & Commissioning', done: false },
+        { title: 'Performance Test & Handover', done: false },
+      ]
+    },
+    {
+      id: 'PO-2025-CPCL-6631',
+      tenderCode: 'TENDER-2025-CPCL-115',
+      title: 'Water Treatment Chemical Supply – Cooling Tower & Boiler Feed',
+      department: 'CPCL Utilities & Water Management Division',
+      value: '₹28.5 Lakhs',
+      awardedDate: '01 June 2025',
+      deliveryDeadline: '31 May 2026',
+      status: 'Active Rate Contract (Annual)',
+      milestones: [
+        { title: 'Contract Signing & First Delivery (3-Month Stock)', done: true },
+        { title: 'Q1 Consumption Review & Replenishment', done: true },
+        { title: 'Q2 Water Quality Audit & Chemical Dosing Review', done: false },
+        { title: 'Q3 Annual Consumption Report', done: false },
+      ]
+    },
+    {
+      id: 'PO-2024-CPCL-3388',
+      tenderCode: 'TENDER-2024-CPCL-137',
+      title: 'Civil & Structural Works – New Crude Storage Tank Foundation',
+      department: 'CPCL Civil Engineering & Infrastructure Division',
+      value: '₹3.55 Crores',
+      awardedDate: '15 December 2024',
+      deliveryDeadline: '30 June 2026',
+      status: 'In Progress (30% Complete)',
+      milestones: [
+        { title: 'Soil Investigation & Design Finalisation', done: true },
+        { title: 'Piling Work – Zone A (Tank 1 Foundation)', done: true },
+        { title: 'Piling Work – Zone B (Tank 2 Foundation)', done: false },
+        { title: 'RCC Raft & Annular Ring Construction', done: false },
+        { title: 'Dyke Wall Construction & Waterproofing', done: false },
+        { title: 'API 650 Foundation Acceptance Test & Handover', done: false },
+      ]
+    },
   ];
 
   return (

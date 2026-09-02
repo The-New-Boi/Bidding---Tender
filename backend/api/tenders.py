@@ -1,4 +1,4 @@
-﻿from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.future import select
 from sqlalchemy import func, update
@@ -18,7 +18,13 @@ router = APIRouter(prefix="/api/tenders", tags=["Tenders Pipeline"])
 
 @router.get("", response_model=List[TenderResponse])
 async def list_tenders(db: AsyncSession = Depends(get_db)):
-    result = await db.execute(select(Tender).order_by(Tender.created_at.desc()))
+    from sqlalchemy import case
+    status_priority = case(
+        {"open": 1, "evaluation": 2, "awarded": 3},
+        value=Tender.status,
+        else_=4
+    )
+    result = await db.execute(select(Tender).order_by(status_priority, Tender.id.desc()))
     tenders = result.scalars().all()
     
     response = []

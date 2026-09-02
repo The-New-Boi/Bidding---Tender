@@ -16,61 +16,319 @@ import {
   ArrowLeft
 } from 'lucide-react';
 
-// Static Past Awards History data
+// Static Past Awards History data — "Tender Kiska Nikla Hai" — 20+ records
 const PAST_AWARDS = [
   {
-    id: 'PAST-2025-CPCL-089',
-    title: 'Supply of High-Pressure Safety Relief Valves',
-    department: 'CPCL Chennai Refinery Unit 2',
+    id: 'TENDER-2025-CPCL-089',
+    title: 'Supply of High-Pressure Safety Relief Valves – CDU Section',
+    department: 'CPCL Chennai Refinery Unit 2 – Safety',
     category: 'Safety Equipment',
     awarded_to: 'Bharat Safety Systems Ltd',
-    awarded_value: '₹42.3 Lakhs',
+    awarded_value: '₹42.0 Lakhs',
     awarded_date: 'March 2025',
-    bidder_count: 8,
+    bidder_count: 4,
     msme_winner: true,
+    selection_mode: 'ai_ranked',
+    ai_score: 89.4,
+    eliminated: 1,
   },
   {
-    id: 'PAST-2024-CPCL-071',
-    title: 'Procurement of Heat Exchangers & Cooling Systems',
-    department: 'CPCL Chennai Refinery Unit 1',
+    id: 'TENDER-2025-CPCL-071',
+    title: 'Procurement of Heat Exchangers & Cooling Systems – VDU Section',
+    department: 'CPCL Chennai Refinery Unit 1 – Process',
     category: 'Heat Transfer Equipment',
     awarded_to: 'Thermotech Industries Pvt Ltd',
-    awarded_value: '₹1.2 Crores',
+    awarded_value: '₹1.08 Crores',
     awarded_date: 'November 2024',
-    bidder_count: 12,
+    bidder_count: 3,
     msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 91.0,
+    eliminated: 0,
   },
   {
-    id: 'PAST-2024-CPCL-058',
-    title: 'Annual Maintenance Contract for Instrumentation Systems',
-    department: 'CPCL Manali Complex',
-    category: 'Maintenance & Services',
+    id: 'TENDER-2024-CPCL-058',
+    title: 'Annual Maintenance Contract – Instrumentation Systems AMC 2024-25',
+    department: 'CPCL Manali Complex – Instrumentation',
+    category: 'Maintenance & AMC',
     awarded_to: 'Kaveri Industrial Supplies Ltd',
-    awarded_value: '₹28.7 Lakhs',
+    awarded_value: '₹26.0 Lakhs',
     awarded_date: 'August 2024',
-    bidder_count: 5,
+    bidder_count: 2,
     msme_winner: true,
+    selection_mode: 'ai_ranked',
+    ai_score: 88.6,
+    eliminated: 0,
   },
   {
-    id: 'PAST-2023-CPCL-043',
-    title: 'Supply of Corrosion Resistant Pipeline Components',
+    id: 'TENDER-2024-CPCL-043',
+    title: 'Supply of Corrosion-Resistant Alloy Pipeline Components',
     department: 'CPCL Refinery Piping Division',
     category: 'Piping & Fittings',
-    awarded_to: 'Southern Pipeline Corp',
-    awarded_value: '₹67.0 Lakhs',
+    awarded_to: 'Metallica Steel & Alloys Pvt Ltd',
+    awarded_value: '₹58.0 Lakhs',
+    awarded_date: 'April 2024',
+    bidder_count: 4,
+    msme_winner: false,
+    selection_mode: 'fair_draw',
+    ai_score: 85.5,
+    eliminated: 1,
+  },
+  {
+    id: 'TENDER-2025-CPCL-101',
+    title: 'Procurement & Commissioning of Fired Heater – Crude Preheat Train',
+    department: 'CPCL Fired Equipment & Furnace Division',
+    category: 'Heavy Machinery & Rigging',
+    awarded_to: 'ISGEC Heavy Engineering Ltd',
+    awarded_value: '₹4.80 Crores',
+    awarded_date: 'January 2025',
+    bidder_count: 3,
+    msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 93.2,
+    eliminated: 0,
+  },
+  {
+    id: 'TENDER-2025-CPCL-115',
+    title: 'Water Treatment Chemical Supply – Cooling Tower & Boiler Feed',
+    department: 'CPCL Utilities & Water Management Division',
+    category: 'Chemicals & Catalysts',
+    awarded_to: 'Nalco Water India Ltd',
+    awarded_value: '₹28.5 Lakhs',
+    awarded_date: 'June 2025',
+    bidder_count: 3,
+    msme_winner: true,
+    selection_mode: 'ai_ranked',
+    ai_score: 86.0,
+    eliminated: 1,
+  },
+  {
+    id: 'TENDER-2024-CPCL-137',
+    title: 'Civil & Structural Works – New Crude Storage Tank Foundation',
+    department: 'CPCL Civil Engineering & Infrastructure Division',
+    category: 'Maintenance & AMC',
+    awarded_to: 'EIL Engineering & Construction Ltd',
+    awarded_value: '₹3.55 Crores',
+    awarded_date: 'December 2024',
+    bidder_count: 4,
+    msme_winner: false,
+    selection_mode: 'fair_draw',
+    ai_score: 88.5,
+    eliminated: 1,
+  },
+  {
+    id: 'PAST-2023-CPCL-088',
+    title: 'Supply & Commissioning of DCS Workstations – Control Room Upgrade',
+    department: 'CPCL IT & Automation Division',
+    category: 'IT & SCADA Automation',
+    awarded_to: 'ABB India Limited',
+    awarded_value: '₹1.22 Crores',
+    awarded_date: 'October 2023',
+    bidder_count: 5,
+    msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 94.5,
+    eliminated: 1,
+  },
+  {
+    id: 'PAST-2023-CPCL-076',
+    title: 'Rooftop Solar Installation – CPCL Employee Township',
+    department: 'CPCL Corporate ESG & Sustainability Division',
+    category: 'Solar & Clean Energy',
+    awarded_to: 'Waaree Energies Ltd',
+    awarded_value: '₹92.0 Lakhs',
+    awarded_date: 'July 2023',
+    bidder_count: 6,
+    msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 90.2,
+    eliminated: 2,
+  },
+  {
+    id: 'PAST-2023-CPCL-061',
+    title: 'Supply of CEMS Stack Emission Monitoring Systems',
+    department: 'CPCL Environment Health & Safety Division',
+    category: 'Environmental & Air Quality',
+    awarded_to: 'Enviro Technology Ltd',
+    awarded_value: '₹78.5 Lakhs',
     awarded_date: 'April 2023',
+    bidder_count: 4,
+    msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 88.4,
+    eliminated: 0,
+  },
+  {
+    id: 'PAST-2023-CPCL-052',
+    title: 'Annual Boiler Safety Inspection & IBR Compliance – Utility Block',
+    department: 'CPCL Utilities & Services Division',
+    category: 'Maintenance & AMC',
+    awarded_to: 'Boilercare Services Pvt Ltd',
+    awarded_value: '₹38.5 Lakhs',
+    awarded_date: 'February 2023',
+    bidder_count: 5,
+    msme_winner: true,
+    selection_mode: 'fair_draw',
+    ai_score: 86.2,
+    eliminated: 1,
+  },
+  {
+    id: 'PAST-2024-CPCL-110',
+    title: 'Procurement of Fire Suppression Systems – Warehouse & Pump House',
+    department: 'CPCL Fire & Safety Division',
+    category: 'Safety Equipment',
+    awarded_to: 'Godrej Safety Equipment India Ltd',
+    awarded_value: '₹51.0 Lakhs',
+    awarded_date: 'September 2024',
+    bidder_count: 5,
+    msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 91.5,
+    eliminated: 2,
+  },
+  {
+    id: 'PAST-2024-CPCL-097',
+    title: 'Supply of Cooling Water Treatment Chemicals – Rate Contract 2024',
+    department: 'CPCL Utilities & Water Management Division',
+    category: 'Chemicals & Catalysts',
+    awarded_to: 'Veolia Water Technologies India',
+    awarded_value: '₹21.8 Lakhs',
+    awarded_date: 'July 2024',
+    bidder_count: 4,
+    msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 85.0,
+    eliminated: 1,
+  },
+  {
+    id: 'PAST-2024-CPCL-083',
+    title: 'Supply of HVAC Systems – New Admin Block Construction',
+    department: 'CPCL Civil Engineering & Infrastructure Division',
+    category: 'Electrical Works',
+    awarded_to: 'Voltas Limited – Projects Division',
+    awarded_value: '₹1.45 Crores',
+    awarded_date: 'May 2024',
+    bidder_count: 7,
+    msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 89.0,
+    eliminated: 3,
+  },
+  {
+    id: 'PAST-2023-CPCL-041',
+    title: 'Security Perimeter CCTV Upgrade – Phase 1',
+    department: 'CPCL Security & Administration Division',
+    category: 'Security & Surveillance',
+    awarded_to: 'Eagle Eye Security Systems Ltd',
+    awarded_value: '₹32.4 Lakhs',
+    awarded_date: 'March 2023',
+    bidder_count: 5,
+    msme_winner: true,
+    selection_mode: 'ai_ranked',
+    ai_score: 83.0,
+    eliminated: 1,
+  },
+  {
+    id: 'PAST-2025-CPCL-029',
+    title: 'Procurement of Centrifugal Pump Sets – Crude Transfer Unit',
+    department: 'CPCL Rotating Equipment Division',
+    category: 'Instrumentation & Controls',
+    awarded_to: 'KSB Pumps Ltd',
+    awarded_value: '₹1.10 Crores',
+    awarded_date: 'February 2025',
+    bidder_count: 4,
+    msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 92.5,
+    eliminated: 0,
+  },
+  {
+    id: 'PAST-2022-CPCL-198',
+    title: 'Supply of Structural Steel for Pipe Rack – Refinery Expansion',
+    department: 'CPCL Piping & Corrosion Management Cell',
+    category: 'Piping & Fittings',
+    awarded_to: 'Tata Steel Ltd – Projects',
+    awarded_value: '₹2.20 Crores',
+    awarded_date: 'November 2022',
     bidder_count: 9,
     msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 95.1,
+    eliminated: 4,
+  },
+  {
+    id: 'PAST-2022-CPCL-172',
+    title: 'ETP Sludge Dewatering System – Phase 2',
+    department: 'CPCL Environment, Health & Safety Division',
+    category: 'Water & Effluent Treatment',
+    awarded_to: 'VA Tech Wabag Ltd',
+    awarded_value: '₹1.85 Crores',
+    awarded_date: 'August 2022',
+    bidder_count: 6,
+    msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 90.8,
+    eliminated: 2,
+  },
+  {
+    id: 'PAST-2023-CPCL-119',
+    title: 'Annual PPE & Safety Workwear Rate Contract 2023-24',
+    department: 'CPCL HSE & Stores Division',
+    category: 'Safety Equipment',
+    awarded_to: 'Safety India PPE Pvt Ltd',
+    awarded_value: '₹18.5 Lakhs',
+    awarded_date: 'May 2023',
+    bidder_count: 6,
+    msme_winner: true,
+    selection_mode: 'ai_ranked',
+    ai_score: 87.4,
+    eliminated: 2,
+  },
+  {
+    id: 'PAST-2024-CPCL-034',
+    title: 'Hiring of Heavy Lift Cranes – Turnaround Maintenance 2024',
+    department: 'CPCL Maintenance & Turnaround Division',
+    category: 'Heavy Machinery & Rigging',
+    awarded_to: 'All India Rigging Corporation',
+    awarded_value: '₹1.58 Crores',
+    awarded_date: 'January 2024',
+    bidder_count: 4,
+    msme_winner: false,
+    selection_mode: 'fair_draw',
+    ai_score: 89.0,
+    eliminated: 1,
+  },
+  {
+    id: 'PAST-2022-CPCL-154',
+    title: 'Petroleum FCC Catalyst Supply – Annual Rate Contract 2022-23',
+    department: 'CPCL Chemical Engineering & Process Division',
+    category: 'Chemicals & Catalysts',
+    awarded_to: 'BASF India Limited',
+    awarded_value: '₹3.80 Crores',
+    awarded_date: 'October 2022',
+    bidder_count: 3,
+    msme_winner: false,
+    selection_mode: 'ai_ranked',
+    ai_score: 96.0,
+    eliminated: 0,
   },
 ];
 
 const CATEGORIES = [
   { label: 'All Categories', value: 'all', icon: '🗂️' },
-  { label: 'Instrumentation & Controls', value: 'Instrumentation & Controls', icon: '⚙️' },
+  { label: 'Instrumentation', value: 'Instrumentation & Controls', icon: '⚙️' },
+  { label: 'Electrical Works', value: 'Electrical Works', icon: '⚡' },
   { label: 'Safety Equipment', value: 'Safety Equipment', icon: '🛡️' },
   { label: 'Heat Transfer', value: 'Heat Transfer Equipment', icon: '🌡️' },
-  { label: 'Maintenance & AMC', value: 'Maintenance & Services', icon: '🔧' },
+  { label: 'Maintenance & AMC', value: 'Maintenance & AMC', icon: '🔧' },
   { label: 'Piping & Fittings', value: 'Piping & Fittings', icon: '🔩' },
+  { label: 'IT & SCADA', value: 'IT & SCADA Automation', icon: '🖥️' },
+  { label: 'Solar & Energy', value: 'Solar & Clean Energy', icon: '☀️' },
+  { label: 'Water Treatment', value: 'Water & Effluent Treatment', icon: '💧' },
+  { label: 'Chemicals', value: 'Chemicals & Catalysts', icon: '🧪' },
+  { label: 'Heavy Machinery', value: 'Heavy Machinery & Rigging', icon: '🏗️' },
+  { label: 'Environment', value: 'Environmental & Air Quality', icon: '🌿' },
+  { label: 'Security', value: 'Security & Surveillance', icon: '📷' },
 ];
 
 const Marketplace = ({ user, onSelectTender, onSetCurrentTab }) => {
@@ -95,15 +353,23 @@ const Marketplace = ({ user, onSelectTender, onSetCurrentTab }) => {
     fetchTenders();
   }, []);
 
-  const filteredTenders = tenders.filter(t => {
-    const q = searchQuery.toLowerCase();
-    const titleMatch = (t.title || '').toLowerCase().includes(q) ||
-                       (t.tender_number || '').toLowerCase().includes(q) ||
-                       (t.category || '').toLowerCase().includes(q) ||
-                       (t.department || '').toLowerCase().includes(q);
-    const catMatch = selectedCategory === 'all' || t.category === selectedCategory;
-    return titleMatch && catMatch;
-  });
+  const filteredTenders = tenders
+    .filter(t => {
+      const q = searchQuery.toLowerCase();
+      const titleMatch = (t.title || '').toLowerCase().includes(q) ||
+                         (t.tender_number || '').toLowerCase().includes(q) ||
+                         (t.category || '').toLowerCase().includes(q) ||
+                         (t.department || '').toLowerCase().includes(q);
+      const catMatch = selectedCategory === 'all' || t.category === selectedCategory;
+      return titleMatch && catMatch;
+    })
+    .sort((a, b) => {
+      const statusOrder = { open: 1, evaluation: 2, awarded: 3, closed: 4 };
+      const orderA = statusOrder[a.status] || 5;
+      const orderB = statusOrder[b.status] || 5;
+      if (orderA !== orderB) return orderA - orderB;
+      return b.id - a.id;
+    });
 
   const filteredHistory = PAST_AWARDS.filter(a => {
     const q = searchQuery.toLowerCase();
@@ -338,7 +604,7 @@ const Marketplace = ({ user, onSelectTender, onSetCurrentTab }) => {
             </div>
 
             {filteredHistory.map(award => (
-              <div key={award.id} className="bg-white rounded-3xl border border-slate-200 shadow-sm p-6">
+              <div key={award.id} className="bg-white rounded-3xl border border-slate-200 shadow-sm p-6 hover:border-emerald-300 hover:shadow-md transition-all">
                 <div className="flex flex-col md:flex-row md:items-start justify-between gap-4">
                   <div className="space-y-2 flex-1">
                     <div className="flex flex-wrap items-center gap-2">
@@ -353,24 +619,39 @@ const Marketplace = ({ user, onSelectTender, onSetCurrentTab }) => {
                           🏅 MSME Winner
                         </span>
                       )}
+                      {award.selection_mode === 'fair_draw' && (
+                        <span className="text-[11px] font-bold px-2.5 py-0.5 rounded-full bg-purple-100 text-purple-700">
+                          🎲 Fair Draw
+                        </span>
+                      )}
                       <span className="text-[11px] font-medium text-slate-500">{award.category}</span>
                     </div>
 
                     <h3 className="text-base font-extrabold text-slate-900">{award.title}</h3>
                     <p className="text-xs text-slate-500">{award.department}</p>
 
-                    <div className="flex flex-wrap items-center gap-4 text-xs text-slate-600 font-medium pt-1">
-                      <span>🏆 Winner: <strong>{award.awarded_to}</strong></span>
-                      <span>📅 Awarded: <strong>{award.awarded_date}</strong></span>
-                      <span>👥 Total Bidders: <strong>{award.bidder_count}</strong></span>
+                    <div className="flex flex-wrap items-center gap-x-5 gap-y-1.5 text-xs text-slate-600 font-medium pt-1">
+                      <span className="flex items-center gap-1">🏆 <span>Winner: <strong className="text-slate-900">{award.awarded_to}</strong></span></span>
+                      <span className="flex items-center gap-1">📅 <span>Awarded: <strong>{award.awarded_date}</strong></span></span>
+                      <span className="flex items-center gap-1">👥 <span>Total Bidders: <strong>{award.bidder_count}</strong></span></span>
+                      {award.eliminated > 0 && (
+                        <span className="flex items-center gap-1 text-red-500">🚫 <span><strong>{award.eliminated}</strong> Eliminated</span></span>
+                      )}
                     </div>
                   </div>
 
-                  <div className="text-right space-y-1 min-w-[140px]">
-                    <div className="text-xs text-slate-400">Contract Value</div>
-                    {/* Awarded contracts show value as part of public record */}
-                    <div className="text-xl font-black text-emerald-700">{award.awarded_value}</div>
-                    <div className="text-[11px] text-slate-400">Post-Award Disclosed</div>
+                  <div className="flex flex-col items-end gap-2 min-w-[155px]">
+                    <div className="text-right">
+                      <div className="text-xs text-slate-400">Contract Value</div>
+                      <div className="text-xl font-black text-emerald-700">{award.awarded_value}</div>
+                      <div className="text-[11px] text-slate-400">Post-Award Disclosed</div>
+                    </div>
+                    {award.ai_score && (
+                      <div className="bg-amber-50 border border-amber-200 rounded-xl px-3 py-1.5 text-right w-full">
+                        <div className="text-[10px] text-amber-600 font-semibold uppercase tracking-wider">AI Eval Score</div>
+                        <div className="text-lg font-black text-amber-700">{award.ai_score}<span className="text-xs font-semibold text-amber-500">/100</span></div>
+                      </div>
+                    )}
                   </div>
                 </div>
               </div>
